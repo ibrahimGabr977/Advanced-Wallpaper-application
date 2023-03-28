@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Mohamed Salah The Best Of England Pro</string>
+    <string name="too_big_level">Not existing level!! enter level between 1–25 or you can reset image from menu </string>
+    <string name="level">Level</string>
+
+    <string name="stop_zoom">Click menu to return swiping and disable Zoom</string>
+    <string name="this_image">This image</string>
+    <string name="saves_to">saved to</string>
+
+    <string name="existing_images_3">This image has already existed</string>
+    <string name="slide_show_4">Images slide show starts</string>
+    <string name="store_permission_error_3">You cannot share or save files without permission</string>
+    <string name="camera_permission_error_3">You cannot use camera without permission</string>
+    <string name="try_again">That\'s out of your memory it takes a moment to fix try now again</string>
+    <string name="set_wallpaper_success_3">Wallpaper Set Successfully</string>
+    <string name="set_wallpaper_error_3">Setting WallPaper Failed!!</string>
+    <string name="set_wallpaper_andro_3">Setting Wallpaper Failed Need Android 7 or Higher!!</string>
+
+
+
+    <string name="check_internet">Please check your network connection and try again</string>
+    <string name="wait_3sec">Wait about 3 seconds until making your photo</string>
+
+    <string name="share_title">Share image</string>
+    <string name="help_title">Helping</string>
+    <string name="clearing_title">Cleaning Application Data</string>
+    <string name="clearing">Are you sure you want to clean application data (does not delete current application saving images)?? it will force close the application??</string>
+
+    <string name="never">Never show again</string>
+    <string name="guide_title">Application Guide</string>
+
+    <string name="filters_guide">Images Filters: You can apply these filters to images, you should use level to specify the filter level you want-
+        levels between 1 to 25 and you can reset image from menu</string>
+
+    <string name="mixing_gallery">Creating your image with gallery: You can make your own image using layers list you have two layers
+    top and bottom you can get them from gallery or shapes or both you can apply unlimited zoom  in-out and change position to them
+        as you want then click camera button (below screen) to create your image.</string>
+
+    <string name="mixing_camera">Creating your image with camera: You can make your own image using camera and shapes
+    also you can apply unlimited zoom in-out and change position to shapes as you want then press camera button (below screen)
+    then wait about 3 seconds to create your image.</string>
+
+    <string name="shapes_guide">Shapes: These are a different shapes of your player image help you to create your own image
+    and shapes list related to the image which you selected from images list and every image have 4 shapes so to change shapes back-select other image
+    -menu-new then you will get another shapes.</string>
+
+
+    <string name="help">We trying to make this application a completed images application and here its features and how to use them.
+  \n 1.Most of features depending on touch like(switch between images/zoom in-out/..etc)
+  \n 2.We trying to use image recognition instead of letters recognition meaning (most buttons you can know its features by its shape only)
+  \n 3.The application supports 25 different languages
+  \n 4.You have many features in menu - share, help, image slide show, switch orientation, open new private option(images mixing from gallery or using camera),
+        zoom in-out and change image position with no limits(to pause zoom and return images swiping just click on menu),
+        reset image(back image to original size,position and no filter), application cleaning(cleaning application without deleting saving images).
+  \n 5.Images Filters: You can apply these filters to images, you should use level to specify the filter level you want-
+        levels between 1 to 25 and you can reset image from menu.
+  \n 6.Setting image wallpaper: give you more options you can set original image wallpaper or set after using filters (set lock screen need android 7+)
+  \n 7.Saving images: you can save original image, saving after applying filters, saving after change size and position(by zooming) and/or applying filters
+  \n 8.In private new option you can use Shapes: These are a different shapes of your player image help you to create your own image
+    and shapes list related to the image which you selected from images list and every image have 4 shapes so to change shapes back-select other image
+    -menu-new then you will get another shapes.
+  \n 9.In private new option Creating your image with camera: You can make your own image using camera and shapes
+    also you can apply unlimited zoom in-out and change position to shapes as you want then press camera button (below screen)
+    then wait about 3 seconds to create your image.
+  \n 10.In private new option Creating your image with gallery: You can make your own image using layers list you have two layers
+    top and bottom you can get them from gallery or shapes or both you can apply unlimited zoom  in-out and change position to them
+        as you want then click camera button (below screen) to create your image.
+  \n 11.In private new option you can apply zoom in-out and change position to shapes and gallery images to make a perfect image.
+  \n 12.After create your photo it will saving automatically but you can applying filters and save again after applying filters.
+      \n      Enjoy and support us.
+    </string>
+
+
+
+
+
+
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>SET homeScreen wallpaper-original image</item>
+        <item>SET homeScreen wallpaper-current filter</item>
+        <item>SET lockScreen wallpaper-original image (android 7+)</item>
+        <item>SET lockScreen wallpaper-current filter (android 7+)</item>
+        <item>SET both-original image (android 7+)</item>
+        <item>SET both-current filter (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>SAVE original image</item>
+        <item>SAVE image in current filter</item>
+        <item>Save image as you see now</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>Select image filter(Levels between 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>Zoom Camera</item>
+        <item>Zoom Image,Change Position</item>
+        <item>Reset Image</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>SELECT SHAPE</item>
+        <item>shape 1</item>
+        <item>shape 2</item>
+        <item>shape 3</item>
+        <item>shape 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>Zoom top layer</item>
+        <item>Zoom bottom layer</item>
+        <item>Reset top layer</item>
+        <item>Reset bottom layer</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>Top layer(Gallery)</item>
+        <item>Top layer(Shapes)</item>
+        <item>Bottom layer(Gallery)</item>
+        <item>Bottom layer(Shapes)</item>
+        <item>Reset top layer</item>
+        <item>Reset bottom layer</item>
+    </string-array>
+
+
+</resources>

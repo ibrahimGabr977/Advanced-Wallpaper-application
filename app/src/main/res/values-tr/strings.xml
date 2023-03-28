@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >İngiltere\'nin en iyi medeni profesyonel</string>
+
+    <string name="too_big_level">mevcut seviye değil !! 1–25 arasında seviye girin veya menüden görüntüyü sıfırlayabilirsiniz</string>
+
+    <string name="level">seviye</string>
+
+    <string name="stop_zoom">kaydırmaya dönmek ve yakınlaştırmayı devre dışı bırakmak için menüyü tıklayın</string>
+
+    <string name="this_image">Bu görüntü</string>
+
+    <string name="saves_to">şuraya kaydet</string>
+
+    <string name="existing_images_3">Bu resim zaten var</string>
+
+    <string name="slide_show_4">resimler slayt gösterisi başlar</string>
+
+    <string name="store_permission_error_3">izinsiz dosyaları paylaşamaz veya kaydedemezsiniz</string>
+
+    <string name="camera_permission_error_3">kamerayı izinsiz kullanamazsınız</string>
+
+    <string name="try_again">Bu hafızanızdan çıktı, şimdi tekrar denemeyi düzeltmek biraz zaman alıyor</string>
+
+    <string name="set_wallpaper_success_3">duvar kağıdı başarıyla kuruldu</string>
+
+    <string name="set_wallpaper_error_3">duvar kağıdı ayarlanamadı!</string>
+
+    <string name="set_wallpaper_andro_3">duvar kağıdı ayar başarısız android 7 veya daha yüksek ihtiyacı var !!</string>
+
+    <string name="check_internet">lütfen ağ bağlantınızı kontrol edip tekrar deneyin</string>
+
+    <string name="wait_3sec">Fotoğrafınızı yaparken yaklaşık 3 saniye bekleyin</string>
+
+    <string name="share_title">fotoğraf paylaşmak</string>
+
+    <string name="help_title">yardım ediyor</string>
+
+    <string name="clearing_title">uygulama verilerini temizleme</string>
+
+    <string name="clearing">Uygulama verilerini temizlemek istediğinizden emin misiniz (uygulama kaydetme resimlerinizi silmez)?
+        uygulamayı kapatır mı?</string>
+
+    <string name="never">bir daha asla gösterme</string>
+
+    <string name="guide_title">Başvuru rehberi</string>
+
+    <string name="filters_guide">görüntü filtreleri: Bu filtreleri görüntülere uygulayabilirsiniz, istediğiniz filtre seviyesini
+        belirlemek için seviye kullanmalısınız - 1 ile 25 arasındaki seviyeler ve menüden görüntüyü sıfırlayabilirsiniz.</string>
+
+    <string name="mixing_gallery">Galeri ile imajınızı yaratın: Katmanları kullanarak kendi resminizi iki katmana sahip
+        yapabilirsiniz - üst ve alt onları galeriden veya şekillerden alabilir veya her ikisini de sınırsız zum yapabilir
+        ve istediğiniz gibi konumlandırabilirsiniz. resminizi oluşturmak için kamera düğmesini (aşağıdaki ekran) tıklayın.</string>
+
+    <string name="mixing_camera">Kameranızla imajınızı yaratın: Kamera ve şekilleri kullanarak kendi resminizi oluşturabilir,
+        sınırsız yakınlaştırma uygulayabilir ve istediğiniz şekilde şekilleri pozisyonlara dönüştürebilir, ardından kamera düğmesine
+        (aşağıdaki ekran) basabilir, ardından resminizi oluşturmak için yaklaşık 3 saniye bekleyin .</string>
+
+    <string name="shapes_guide">şekilleri: Bunlar, oyuncu resminizin farklı bir şeklidir, resimlerden seçtiğiniz
+        görüntü ile ilgili kendi görüntünüzü ve şekillerinizi oluşturmanıza yardımcı olur ve her görüntünün şekilleri
+        değiştirmek için 4 şekle sahip olması gerekir. o zaman başka bir şekil alacaksın.</string>
+
+    <string name="help">Bu uygulamayı tamamlanmış bir görüntü uygulaması yapmaya çalışıyoruz ve burada özellikleri ve bunları nasıl kullanacağız.
+\n 1. Dokunmaya bağlı özelliklerin çoğu gibi (resimler arasında geçiş yap / zoom in - out / .. vb.)
+\n 2. Harf tanıma anlamı yerine görüntü tanıma işlevini kullanmaya çalışıyoruz (çoğu düğme özelliklerini yalnızca şekliyle tanıyabilirsiniz)
+\n 3. uygulama, 25 farklı dili destekliyor
+\n 4. Menüde birçok özellik var - Paylaşım, yardım, resim slayt gösterisi, anahtar yönlendirmesi, yeni özel seçenek aç (galeriden veya kamerayı kullanma resimleri), yakınlaştır ve görüntü konumunu hiçbir sınırlama olmadan değiştir görüntüyü duraklatmak ve döndürmek için sadece menüye tıklamanız yeterlidir), görüntüyü sıfırla (orijinal resme, görüntüye ve filtreye geri döndür), uygulama temizleme (görüntüleri kaydetmeden temizleme uygulaması).
+\n 5. görüntü filtreleri: Bu filtreleri görüntülere uygulayabilirsiniz, istediğiniz filtre seviyesini belirlemek için seviye kullanmalısınız - 1 ila 25 arasındaki seviyeler ve menüden görüntüyü sıfırlayabilirsiniz.
+\n 6. Görüntü duvar kağıdının ayarlanması: orijinal görüntü duvar kağıdını ayarlayabileceğiniz veya filtreler kullandıktan sonra ayarlayabileceğiniz daha fazla seçenek sunar (kilit ekranının android 7+ olması gerekir)
+\n 7. görüntüleri kaydetme: orijinal görüntüyü kaydedebilir, filtreler uyguladıktan sonra tasarruf edebilir, değişiklik boyutundan ve konumdan (kaydederek) tasarruf edebilir ve / veya filtreler uygulayabilirsiniz.
+\n 8. Özel yeni seçenekte, Şekiller\'i kullanabilirsiniz: Bunlar, oyuncu resminizin farklı bir şeklidir, resim listesinden seçtiğiniz görüntü ile ilgili kendi görüntünüzü ve şekiller listenizi oluşturmanıza yardımcı olur ve her görüntünün 4 şekli vardır. şekilleri değiştir - diğer görüntüyü seç - menü - yeni, sonra başka şekiller elde edersin.
+\n 9. Kameranızla fotoğrafınızı yaratan özel yeni bir seçenek ile: kamera ve şekilleri kullanarak kendi resminizi oluşturabilir ve sınırsız yakınlaştırma uygulayabilir ve istediğiniz şekilde şekilleri değiştirebilirsiniz. Daha sonra kamera düğmesine basın (aşağıdaki ekran)
+  resminizi oluşturmak için yaklaşık 3 saniye bekleyin.
+\n 10. özel yeni bir seçenek ile galerinizle imajınızı oluşturabilirsin: Katmanları kullanarak kendi resminizi oluşturabilir, üst ve altta iki katman var, bunları galeriden ya da şekillerden alabilir ya da her ikisini de sınırsız yakınlaştırma uygulamasında kullanabilirsiniz. Ardından, resminizi oluşturmak için kamera düğmesini (aşağıdaki ekran) tıklayın.
+\n 11. özel yeni seçenekte, mükemmel bir görüntü oluşturmak için yakınlaştırmayı uygulayabilir ve şekilleri ve galeri görüntülerini değiştirebilirsiniz.
+\n 12. Fotoğrafınızı oluşturduktan sonra otomatik olarak kaydedilir ancak filtreler uygulayıp filtreler uygulayıp tekrar kaydedebilirsiniz.
+    \n tadını çıkarın ve destekleyin.</string>
+
+    <string-array name="set_array_3">
+        <item>  </item>
+        <item>ana ekran duvar kağıdını ayarla - orijinal görüntü</item>
+        <item>ana ekran duvar kağıdını ayarla - geçerli filtre</item>
+        <item>kilit ekranı duvar kağıdı ayarla - orijinal görüntü (android 7+)</item>
+        <item>kilit ekranı duvar kağıdı ayarlamak-akım filtresi (android 7+)</item>
+        <item>ikisini de ayarla - orijinal görüntü (android 7+)</item>
+        <item>her ikisini de ayarla - geçerli filtre (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>orijinal resmi kaydet</item>
+        <item>resmi geçerli filtrede kaydet</item>
+        <item>görüntüyü şimdi gördüğünüz şekilde kaydedin</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>görüntü filtresini seç (1–25 arası seviyeler)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>yakınlaştırma kamerası</item>
+        <item>görüntüyü büyüt, konumu değiştir</item>
+        <item>resmi sıfırla</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>şekli seç</item>
+        <item>şekil 1</item>
+        <item>şekil 2</item>
+        <item>şekil 3</item>
+        <item>şekil 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>yakınlaştırma katmanı</item>
+        <item>yakınlaştırma alt tabakası</item>
+        <item>üst katmanı sıfırla</item>
+        <item>alt katmanı sıfırla</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>üst katman (galeri)</item>
+        <item>üst katman (şekiller)</item>
+        <item>alt katman (galeri)</item>
+        <item>alt tabaka (şekiller)</item>
+        <item>üst katmanı sıfırla</item>
+        <item>alt katmanı sıfırla</item>
+    </string-array>
+</resources>

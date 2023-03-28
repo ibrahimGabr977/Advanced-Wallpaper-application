@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mohamed salah de beste van de engelse professional</string>
+
+    <string name="too_big_level">niet bestaand niveau !! voer een niveau tussen 1–25 in of u kunt de afbeelding resetten vanuit het menu</string>
+
+    <string name="level">niveau</string>
+
+    <string name="stop_zoom">klik op menu om terug te vegen en zoom uit te schakelen</string>
+
+    <string name="this_image">deze afbeelding</string>
+
+    <string name="saves_to">opslaan in</string>
+
+    <string name="existing_images_3">deze afbeelding heeft al bestaan</string>
+
+    <string name="slide_show_4">afbeeldingen diavoorstelling begint</string>
+
+    <string name="store_permission_error_3">je kunt geen bestanden delen of opslaan zonder toestemming</string>
+
+    <string name="camera_permission_error_3">je kunt de camera niet zonder toestemming gebruiken</string>
+
+    <string name="try_again">Dat is uit je geheugen. Het duurt even om het opnieuw te proberen</string>
+
+    <string name="set_wallpaper_success_3">wallpaper succesvol ingesteld</string>
+
+    <string name="set_wallpaper_error_3">achtergrond instellen mislukt !!</string>
+
+    <string name="set_wallpaper_andro_3">achtergrond instellen mislukt heeft Android 7 of hoger nodig !!</string>
+
+    <string name="check_internet">controleer uw netwerkverbinding en probeer het opnieuw</string>
+
+    <string name="wait_3sec">wacht ongeveer 3 seconden terwijl je je foto maakt</string>
+
+    <string name="share_title">Deel afbeelding</string>
+
+    <string name="help_title">helpen</string>
+
+    <string name="clearing_title">toepassingsgegevens opschonen</string>
+
+    <string name="clearing">weet u zeker dat u de applicatiegegevens wilt opschonen (verwijdert de afbeeldingen van uw applicatie niet)?
+        het zal toepassing sluiten ??</string>
+
+    <string name="never">nooit meer laten zien</string>
+
+    <string name="guide_title">toepassingsgids</string>
+
+    <string name="filters_guide">afbeeldingenfilters: u kunt deze filters toepassen op afbeeldingen, u moet niveau gebruiken om het
+        gewenste filterniveau op te geven - niveaus tussen
+        1 en 25 en u kunt de afbeelding opnieuw instellen vanuit het menu.</string>
+
+    <string name="mixing_gallery">je afbeelding maken met galerij: je kunt je eigen afbeelding maken met behulp van de lagenlijst
+        je hebt twee lagen - aan de boven- en onderkant kun je ze uit de galerij of vormen halen of beide kun je onbeperkt in-uit
+        zoomen toepassen en van positie veranderen zoals je wilt klik op de cameraknop (onder het scherm) om uw afbeelding te maken.</string>
+
+    <string name="mixing_camera">uw afbeelding maken met de camera: u kunt uw eigen afbeelding maken met behulp
+        van de camera en vormen, u kunt ook een onbeperkte zoom in-uit toepassen en van positie veranderen naar de
+        gewenste vormen en dan op de cameraknop drukken (onder het scherm) en vervolgens ongeveer 3 seconden wachten om uw afbeelding te maken .</string>
+
+    <string name="shapes_guide">vormen: dit zijn verschillende vormen van je spelerbeeld helpen je om je eigen
+        afbeelding- en vormenlijst te maken met betrekking tot de afbeelding die je hebt geselecteerd in de afbeeldingenlijst
+        en elke afbeelding heeft 4 vormen om de vormen terug te veranderen - selecteer een andere afbeelding - menu - nieuw dan
+        krijg je andere vormen.</string>
+
+    <string name="help">we proberen van deze applicatie een voltooide afbeeldingenapp te maken en hier de functies en hoe ze te gebruiken.
+\n 1. meeste functies afhankelijk van aanraken, zoals (schakelen tussen afbeeldingen / inzoomen / uitzoomen / enz.)
+\n 2. we proberen beeldherkenning te gebruiken in plaats van letterherkenning (de meeste knoppen kennen de kenmerken alleen door hun vorm)
+\n 3. de applicatie ondersteunt 24 verschillende talen
+\n 4. je hebt veel functies in het menu - deel, help, beeld diavoorstelling, zet stand, open een nieuwe privé-optie (afbeeldingen mengen van galerij of camera), zoom in-out en verander de beeldpositie zonder grenzen (naar pauze zoom en terugkeer afbeeldingen vegen klik gewoon op menu), reset afbeelding (terug naar origineel formaat, positie en geen filter), applicatie opschonen (applicatie reinigen zonder verwijderde afbeeldingen te verwijderen).
+\n 5. afbeeldingen filters: u kunt deze filters toepassen op afbeeldingen, u moet niveau gebruiken om het gewenste filterniveau op te geven - niveaus tussen 1 en 25 en u kunt de afbeelding resetten vanuit het menu.
+\n 6. instellen afbeelding achtergrond: geef je meer opties kun je de originele afbeelding achtergrond instellen of instellen na het gebruik van filters (set lock screen nodig android 7+)
+\n 7. afbeeldingen opslaan: u kunt de originele afbeelding opslaan, opslaan na het toepassen van filters, opslaan na wijziging grootte en positie (door in te zoomen) en / of filters toepassen
+\n 8. in een nieuwe privé-optie kunt u vormen gebruiken: deze vormen een verschillende vorm voor uw spelerbeeld helpen u om uw eigen afbeelding- en vormenlijst te maken met betrekking tot de afbeelding die u in de afbeeldingenlijst hebt geselecteerd en elke afbeelding heeft 4 vormen. verander de vormen terug - selecteer een andere afbeelding - menu - nieuw dan krijg je een andere vorm.
+\n 9. in een nieuwe privé-optie om je afbeelding met camera te maken: je kunt je eigen afbeelding maken met behulp van de camera en de vormen, je kunt ook onbeperkt inzoomen en de positie veranderen naar vormen en de cameraknop indrukken (onder scherm)
+  wacht vervolgens ongeveer 3 seconden om uw afbeelding te maken.
+\n 10. in een nieuwe privéoptie die uw afbeelding met galerij maakt: u kunt uw eigen afbeelding maken met behulp van de lagenlijst u hebt twee lagen boven en onder, u kunt ze uit de galerij of vormen halen of beide kunt u onbeperkt in-uit zoomen toepassen en van positie veranderen naar hen je wilt dan op de cameraknop klikken (onder het scherm) om je afbeelding te maken.
+\n 11. in een nieuwe privéoptie kunt u zoom in - out toepassen en van positie veranderen in vormen en galerijafbeeldingen om een ​​perfecte afbeelding te maken.
+\n 12. nadat u uw foto hebt gemaakt, wordt deze automatisch opgeslagen, maar u kunt filters toepassen en opnieuw opslaan nadat u filters hebt toegepast.
+    \n geniet van en steun ons.</string>
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>instellen startschermachtergrond - originele afbeelding</item>
+        <item>zet startschermachtergrond - huidig filter</item>
+        <item>stel vergrendel scherm achtergrond - originele afbeelding (Android 7+)</item>
+        <item>stel vergrendel scherm achtergrond - huidig filter (android 7+)</item>
+        <item>zet beide - originele afbeelding (Android 7+)</item>
+        <item>zet beide - huidige filter (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>bewaar originele afbeelding</item>
+        <item>afbeelding opslaan in huidig filter</item>
+        <item>afbeelding opslaan zoals u nu ziet</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>selecteer afbeeldingsfilter (niveaus tussen 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>zoomcamera</item>
+        <item>zoomafbeelding, positie wijzigen</item>
+        <item>afbeelding resetten</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>selecteer vorm</item>
+        <item>vorm 1</item>
+        <item>vorm 2</item>
+        <item>vorm 3</item>
+        <item>vorm 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>zoom toplaag</item>
+        <item>onderste zoomlaag</item>
+        <item>reset bovenste laag</item>
+        <item>onderste laag opnieuw instellen</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>bovenste laag (galerij)</item>
+        <item>toplaag (vormen)</item>
+        <item>onderste laag (galerij)</item>
+        <item>onderste laag (vormen)</item>
+        <item>reset bovenste laag</item>
+        <item>onderste laag opnieuw instellen</item>
+    </string-array>
+
+</resources>

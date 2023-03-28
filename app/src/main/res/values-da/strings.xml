@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah den bedste england professionelle</string>
+
+    <string name="too_big_level">ikke eksisterende niveau !! indtast niveau mellem 1–25 eller du kan nulstille billedet fra menuen</string>
+
+    <string name="level">niveau</string>
+
+    <string name="stop_zoom">Klik på menuen for at returnere swiping og deaktiver zoom</string>
+
+    <string name="this_image">dette billede</string>
+
+    <string name="saves_to">Gem til</string>
+
+    <string name="existing_images_3">dette billede har allerede eksisteret</string>
+
+    <string name="slide_show_4">billeder diasshow starter</string>
+
+    <string name="store_permission_error_3">Du kan ikke dele eller gemme filer uden tilladelse</string>
+
+    <string name="camera_permission_error_3">Du kan ikke bruge kameraet uden tilladelse</string>
+
+    <string name="try_again">Det er ude af din hukommelse, det tager et øjeblik at ordne forsøge igen</string>
+
+    <string name="set_wallpaper_success_3">tapet med succes</string>
+
+    <string name="set_wallpaper_error_3">indstilling af tapet mislykkedes !!</string>
+
+    <string name="set_wallpaper_andro_3">indstilling tapet mislykkedes brug for android 7 eller højere !!</string>
+
+    <string name="check_internet">Kontroller din netværksforbindelse og prøv igen</string>
+
+    <string name="wait_3sec">Vent ca. 3 sekunder, mens du laver dit billede</string>
+
+    <string name="share_title">del billede</string>
+
+    <string name="help_title">hjælpe</string>
+
+    <string name="clearing_title">rengøringsapplikationsdata</string>
+
+    <string name="clearing">er du sikker på at du vil rense applikationsdata (sletter ikke din ansøgning, der gemmer billeder)?
+        det vil lukke ansøgningen ??</string>
+
+    <string name="never">Vis aldrig igen</string>
+
+    <string name="guide_title">ansøgningsguide</string>
+
+    <string name="filters_guide">Billedfiltre: Du kan anvende disse filtre på billeder, du skal bruge niveau til at angive det ønskede
+        filterniveau - niveauer mellem 1 og 25, og du kan nulstille billedet fra menuen.</string>
+
+    <string name="mixing_gallery">Opret dit billede med galleri: Du kan lave dit eget billede ved hjælp af lagliste, du har to lag
+        - øverst og nederst kan du få dem fra galleri eller figurer, eller begge kan du anvende ubegrænset zoom ind og ud og ændre
+        position til dem som du vil Klik på kameraknappen (under skærmen) for at oprette dit billede.</string>
+
+    <string name="mixing_camera">Oprettelse af dit billede med kamera: Du kan lave dit eget billede ved hjælp af kamera og figurer.
+        Du kan også anvende ubegrænset zoom ind og ud og ændre position til figurer, som du vil, tryk derefter på kameraknappen
+        (under skærmen) og vent ca. 3 sekunder for at oprette dit billede .</string>
+
+    <string name="shapes_guide">figurer: disse er forskellige former for dit afspillersbillede hjælper dig med at oprette dit eget
+        billed- og billedliste relateret til billedet, som du valgte fra billedliste, og hvert billede har 4 figurer, så du kan ændre
+        figurer tilbage - vælg andet billede - menu - nyt så får du en anden form.</string>
+
+    <string name="help">Vi forsøger at gøre denne applikation til en færdigbygget billedapplikation og her dens funktioner og hvordan man bruger dem.
+\n 1. De fleste funktioner afhænger af touch like (skift mellem billeder / zoom ind - ud / .. osv.)
+\n 2. vi forsøger at bruge billedgenkendelse i stedet for bogstaver genkendelsesbetydning (de fleste knapper kan du kun kende dets funktioner kun efter form)
+\n 3. Programmet understøtter 24 forskellige sprog
+\n 4. Du har mange funktioner i menuen - del, hjælp, billedfremvisning, skift orientering, åbner ny privat mulighed (billeder blandes fra galleri eller ved brug af kamera), zoom ud og ændrer billedposition uden grænser (til pause zoom og returnere billeder swiping bare klik på menuen), nulstil billede (tilbage billede til original størrelse, position og intet filter), program rengøring (rengøring program uden at slette gemte billeder).
+\n 5. billeder filtre: Du kan anvende disse filtre på billeder, du skal bruge niveau til at angive det ønskede filterniveau - niveauer mellem 1 til 25 og du kan nulstille billedet fra menuen.
+\n 6. indstilling af billedbaggrund: giver dig flere muligheder, du kan indstille originalt billedbaggrund eller indstillet efter brug af filtre (sæt låseskærm har brug for android 7+)
+\n 7. Gem billeder: Du kan gemme originalt billede, gemme efter filtre, gemme efter ændringstørrelse og position (ved at zoome) og / eller anvende filtre
+\n 8. I privat ny mulighed kan du bruge figurer: Disse er forskellige former for dit afspillersbillede, hjælper dig med at oprette dit eget billed- og billedliste relateret til det billede, du valgte fra billedliste, og hvert billede har 4 former så skift former tilbage - vælg andet billede - menu - nyt, så får du en anden form.
+\n 9. I privat ny mulighed for at oprette dit billede med kamera: Du kan lave dit eget billede ved hjælp af kamera og figurer. Du kan også anvende ubegrænset zoom ud og ændre position til former, som du vil, og tryk derefter på kameraknappen (under skærmen)
+  Vent derefter ca. 3 sekunder for at oprette dit billede.
+\n 10. i privat ny mulighed for at skabe dit billede med galleri: du kan lave dit eget billede ved hjælp af lagliste, du har to lag øverst og nederst, du kan få dem fra galleri eller figurer, eller begge kan du anvende ubegrænset zoom ind og ud og ændre position til dem som du vil derefter klikke på kameraknappen (under skærmen) for at oprette dit billede.
+\n 11. I privat ny mulighed kan du anvende zoom ind - ud og ændre position til former og galleri billeder for at skabe et perfekt billede.
+\n 12. efter at du har lavet dit billede, gemmes det automatisk, men du kan anvende filtre og gemme igen efter filtre.
+    \n nyd og support os.</string>
+
+    <string-array name="set_array_3">
+        <item>  </item>
+        <item>Indstil startskærmens tapet - originalt billede</item>
+        <item>indstil startskærmbillede - nuværende filter</item>
+        <item>sæt lås skærm tapet - originalt billede (android 7+)</item>
+        <item>indstil lås skærm tapet -current filter (android 7+)</item>
+        <item>sæt begge billeder - original image (android 7+)</item>
+        <item>indstil begge - nuværende filter (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>gem original billede</item>
+        <item>gem billede i nuværende filter</item>
+        <item>Gem billede som du ser nu</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>vælg billedfilter (niveauer mellem 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>zoom kamera</item>
+        <item>zoom billede, skift position</item>
+        <item>nulstil billede</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>vælg form</item>
+        <item>form 1</item>
+        <item>form 2</item>
+        <item>form 3</item>
+        <item>form 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>zoom øverste lag</item>
+        <item>zoom bundlag</item>
+        <item>nulstil toplag</item>
+        <item>nulstil bundlaget</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>øverste lag (galleri)</item>
+        <item>øverste lag (former)</item>
+        <item>bundlag (galleri)</item>
+        <item>bundlag (former)</item>
+        <item>nulstil toplag</item>
+        <item>nulstil bundlaget</item>
+    </string-array>
+</resources>

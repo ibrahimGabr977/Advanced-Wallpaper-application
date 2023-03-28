@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah tốt nhất của anh chuyên nghiệp</string>
+
+    <string name="too_big_level">không có cấp độ hiện tại !! nhập mức từ 1–25 hoặc bạn có thể đặt lại hình ảnh từ menu</string>
+
+    <string name="level">cấp độ</string>
+
+    <string name="stop_zoom">nhấp vào menu để quay lại và vô hiệu hóa thu phóng</string>
+
+    <string name="this_image">bức ảnh này</string>
+
+    <string name="saves_to">lưu vào</string>
+
+    <string name="existing_images_3">hình ảnh này đã tồn tại</string>
+
+    <string name="slide_show_4">hình ảnh slide show bắt đầu</string>
+
+    <string name="store_permission_error_3">bạn không thể chia sẻ hoặc lưu tệp mà không được phép</string>
+
+    <string name="camera_permission_error_3">bạn không thể sử dụng máy ảnh mà không được phép</string>
+
+    <string name="try_again">Đó là ra khỏi bộ nhớ của bạn.</string>
+
+    <string name="set_wallpaper_success_3">Đã đặt hình nền thành công</string>
+
+    <string name="set_wallpaper_error_3">đặt hình nền không thành công !!</string>
+
+    <string name="set_wallpaper_andro_3">thiết lập hình nền không cần android 7 hoặc cao hơn !!</string>
+
+    <string name="check_internet">hãy kiểm tra kết nối mạng của bạn và thử lại</string>
+
+    <string name="wait_3sec">chờ khoảng 3 giây trong khi tạo ảnh của bạn</string>
+
+    <string name="share_title">chia sẻ hình ảnh</string>
+
+    <string name="help_title">giúp đỡ</string>
+
+    <string name="clearing_title">làm sạch dữ liệu ứng dụng</string>
+
+    <string name="clearing">bạn có chắc chắn muốn xóa dữ liệu ứng dụng (không xóa hình ảnh lưu ứng dụng của bạn) không ??
+        nó sẽ đóng ứng dụng?</string>
+
+    <string name="never">không bao giờ hiển thị trở lại</string>
+
+    <string name="guide_title">hướng dẫn đơn xin vào</string>
+
+    <string name="filters_guide">bộ lọc hình ảnh: Bạn có thể áp dụng các bộ lọc này cho hình ảnh,
+        bạn nên sử dụng cấp độ để chỉ định mức bộ lọc bạn muốn - mức từ 1 đến 25 và bạn có thể đặt lại hình ảnh từ trình đơn.</string>
+
+    <string name="mixing_gallery">tạo hình ảnh của riêng bạn bằng cách sử dụng danh sách lớp bạn có hai lớp - trên cùng và dưới
+        cùng bạn có thể lấy chúng từ thư viện hoặc hình dạng hoặc cả hai bạn có thể áp dụng phóng to không giới hạn và thay đổi vị trí
+        cho chúng như bạn muốn bấm nút camera (bên dưới màn hình) để tạo hình ảnh của bạn.</string>
+
+    <string name="mixing_camera">tạo hình ảnh của bạn bằng camera: Bạn có thể tạo hình ảnh của riêng mình bằng camera và hình dạng,
+        bạn có thể áp dụng phóng to không giới hạn và thay đổi vị trí thành hình dạng như bạn muốn rồi nhấn nút camera
+        (bên dưới màn hình) sau đó đợi khoảng 3 giây để tạo hình ảnh của bạn .</string>
+
+    <string name="shapes_guide">hình dạng: đây là hình dạng khác nhau của hình ảnh người chơi giúp bạn tạo danh sách hình
+        ảnh và hình dạng của riêng mình liên quan đến hình ảnh bạn đã chọn từ danh sách hình ảnh và mỗi hình ảnh có 4 hình dạng để thay
+        đổi hình dạng trở lại chọn hình ảnh khác - menu - mới sau đó bạn sẽ nhận được một hình dạng khác.</string>
+
+    <string name="help">chúng tôi đang cố gắng làm cho ứng dụng này trở thành ứng dụng hình ảnh hoàn chỉnh và ở đây các tính năng của ứng dụng cũng như cách sử dụng chúng.
+\n 1. hầu hết các tính năng phụ thuộc vào cảm ứng như (chuyển đổi giữa hình ảnh / phóng to - ra / .. vv)
+\n 2. chúng tôi cố gắng sử dụng nhận dạng hình ảnh thay vì ý nghĩa nhận dạng chữ cái (hầu hết các nút bạn có thể biết các tính năng của nó chỉ bằng hình dạng của nó)
+\n 3. ứng dụng hỗ trợ 25 ngôn ngữ khác nhau
+\n 4. bạn có nhiều tính năng từ trong menu - chia sẻ, trợ giúp, trình chiếu ảnh, chuyển hướng, mở tùy chọn riêng tư mới (hình ảnh trộn từ thư viện hoặc sử dụng camera), phóng to và thay đổi vị trí ảnh không giới hạn (thành tạm dừng zoom và trả lại hình ảnh swiping chỉ cần nhấp vào menu), thiết lập lại hình ảnh (hình ảnh trở lại kích thước ban đầu, vị trí và không có bộ lọc), ứng dụng làm sạch (làm sạch ứng dụng mà không xóa hình ảnh tiết kiệm).
+\n 5. bộ lọc hình ảnh: Bạn có thể áp dụng các bộ lọc này cho hình ảnh, bạn nên sử dụng cấp độ để chỉ định mức bộ lọc bạn muốn - mức từ 1 đến 25 và bạn có thể đặt lại hình ảnh từ menu.
+\n 6. thiết lập hình nền hình ảnh: cung cấp cho bạn nhiều tùy chọn hơn bạn có thể đặt hình nền hình ảnh gốc hoặc đặt sau khi sử dụng bộ lọc (đặt màn hình khóa cần android 7+)
+\n 7. lưu hình ảnh: bạn có thể lưu hình ảnh gốc, lưu sau khi áp dụng bộ lọc, tiết kiệm sau khi thay đổi kích thước và vị trí (bằng cách phóng to) và / hoặc áp dụng bộ lọc
+\n 8. Trong tùy chọn riêng tư mới, bạn có thể sử dụng Shapes: Đây là một hình dạng khác nhau của hình ảnh người chơi giúp bạn tạo danh sách hình ảnh và hình dạng của riêng mình liên quan đến hình ảnh bạn đã chọn từ danh sách hình ảnh và mọi hình ảnh có 4 hình dạng thay đổi hình dạng trở lại - chọn hình ảnh khác - menu - mới sau đó bạn sẽ nhận được một hình dạng khác.
+\n 9. Trong tùy chọn riêng tư mới tạo hình ảnh bằng camera: bạn có thể tạo hình ảnh của riêng mình bằng camera và hình dạng, bạn có thể áp dụng phóng to không giới hạn và thay đổi vị trí thành hình dạng như bạn muốn rồi nhấn nút camera (bên dưới màn hình)
+  sau đó chờ khoảng 3 giây để tạo hình ảnh của bạn.
+\n 10. trong tùy chọn mới tạo hình ảnh của riêng bạn với thư viện: bạn có thể tạo hình ảnh của riêng mình bằng cách sử dụng danh sách lớp bạn có hai lớp trên cùng và dưới cùng bạn có thể lấy chúng từ thư viện hoặc hình dạng hoặc cả hai bạn có thể áp dụng phóng to không giới hạn và thay đổi vị trí của chúng bạn muốn sau đó nhấp vào nút camera (bên dưới màn hình) để tạo hình ảnh của bạn.
+\n 11. trong tùy chọn mới riêng tư, bạn có thể áp dụng phóng to và thay đổi vị trí thành hình dạng và hình ảnh thư viện để tạo một hình ảnh hoàn hảo.
+\n 12. sau khi tạo ảnh của bạn, ảnh sẽ tự động lưu nhưng bạn có thể áp dụng bộ lọc và lưu lại sau khi áp dụng bộ lọc.
+    \n tận hưởng và ủng hộ chúng tôi.</string>
+
+    <string-array name="set_array_3">
+        <item>  </item>
+        <item>đặt hình nền màn hình chính - hình ảnh gốc</item>
+        <item>đặt hình nền màn hình chính - bộ lọc hiện tại</item>
+        <item>đặt hình nền màn hình khóa - hình ảnh gốc (android 7+)</item>
+        <item>đặt bộ lọc màn hình khóa - bộ lọc hiện tại (android 7+)</item>
+        <item>đặt cả hai - hình ảnh gốc (android 7+)</item>
+        <item>đặt cả bộ lọc hiện tại (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>lưu hình ảnh gốc</item>
+        <item>lưu hình ảnh trong bộ lọc hiện tại</item>
+        <item>lưu hình ảnh như bạn thấy bây giờ</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>chọn bộ lọc hình ảnh (các mức từ 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>zoom camera</item>
+        <item>phóng to hình ảnh, thay đổi vị trí</item>
+        <item>đặt lại hình ảnh</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>chọn hình dạng</item>
+        <item>hình dạng 1</item>
+        <item>hình dạng 2</item>
+        <item>hình dạng 3</item>
+        <item>hình dạng 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>thu phóng lớp trên cùng</item>
+        <item>thu nhỏ lớp dưới cùng</item>
+        <item>đặt lại lớp trên cùng</item>
+        <item>đặt lại lớp dưới cùng</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>lớp trên cùng (thư viện)</item>
+        <item>lớp trên cùng (hình dạng)</item>
+        <item>lớp dưới cùng (thư viện)</item>
+        <item>lớp đáy (hình dạng)</item>
+        <item>đặt lại lớp trên cùng</item>
+        <item>đặt lại lớp dưới cùng</item>
+    </string-array>
+</resources>

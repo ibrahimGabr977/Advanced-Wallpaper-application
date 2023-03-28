@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah yang terbaik dari profesional england</string>
+
+    <string name="too_big_level">bukan level yang ada !! masukkan level antara 1–25 atau Anda dapat mengatur ulang gambar dari menu</string>
+
+    <string name="level">tingkat</string>
+
+    <string name="stop_zoom">klik menu untuk kembali menggesek dan menonaktifkan zoom</string>
+
+    <string name="this_image">gambar ini</string>
+
+    <string name="saves_to">menyimpan ke</string>
+
+    <string name="existing_images_3">gambar ini sudah ada</string>
+
+    <string name="slide_show_4">gambar slide show dimulai</string>
+
+    <string name="store_permission_error_3">Anda tidak dapat berbagi atau menyimpan file tanpa izin</string>
+
+    <string name="camera_permission_error_3">Anda tidak dapat menggunakan kamera tanpa izin</string>
+
+    <string name="try_again">Itu di luar ingatan Anda, perlu waktu sejenak untuk memperbaikinya coba lagi</string>
+
+    <string name="set_wallpaper_success_3">wallpaper berhasil</string>
+
+    <string name="set_wallpaper_error_3">pengaturan wallpaper gagal !!</string>
+
+    <string name="set_wallpaper_andro_3">pengaturan wallpaper gagal perlu android 7 atau lebih tinggi !!</string>
+
+    <string name="check_internet">silakan periksa koneksi jaringan Anda dan coba lagi</string>
+
+    <string name="wait_3sec">tunggu sekitar 3 detik saat membuat foto Anda</string>
+
+    <string name="share_title">bagikan gambar</string>
+
+    <string name="help_title">membantu</string>
+
+    <string name="clearing_title">membersihkan data aplikasi</string>
+
+    <string name="clearing">apakah Anda yakin ingin membersihkan data aplikasi (tidak menghapus aplikasi Anda menyimpan gambar) ??
+        itu akan menutup aplikasi ??</string>
+
+    <string name="never">tidak pernah muncul lagi</string>
+
+    <string name="guide_title">panduan aplikasi</string>
+
+    <string name="filters_guide">filter gambar: Anda dapat menerapkan filter ini ke gambar, Anda harus
+        menggunakan tingkat untuk menentukan tingkat filter yang Anda inginkan - tingkat antara 1 hingga 25 dan
+        Anda dapat mengatur ulang gambar dari menu.</string>
+
+    <string name="mixing_gallery">membuat gambar Anda dengan galeri: Anda dapat membuat gambar Anda sendiri
+        menggunakan daftar lapisan Anda memiliki dua lapisan - atas dan bawah Anda bisa mendapatkannya dari galeri
+        atau bentuk atau keduanya Anda dapat menerapkan zoom tanpa batas tanpa batas dan mengubah posisi ke mereka
+        seperti yang Anda inginkan klik tombol kamera (di bawah layar) untuk membuat gambar Anda.</string>
+
+    <string name="mixing_camera">membuat gambar Anda dengan kamera: Anda dapat membuat gambar Anda sendiri menggunakan
+        kamera dan bentuk juga Anda dapat menerapkan zoom in-out tanpa batas dan mengubah posisi ke bentuk yang Anda inginkan
+        kemudian tekan tombol kamera (di bawah layar) lalu tunggu sekitar 3 detik untuk membuat gambar Anda .</string>
+
+    <string name="shapes_guide">bentuk: ini adalah bentuk yang berbeda dari gambar pemutar Anda membantu Anda untuk membuat
+        gambar Anda sendiri dan daftar bentuk yang terkait dengan gambar yang Anda pilih dari daftar gambar dan setiap gambar
+        memiliki 4 bentuk sehingga untuk mengubah bentuk kembali-pilih gambar lainnya - menu - baru maka Anda akan mendapatkan bentuk lain.</string>
+
+    <string name="help">kami mencoba untuk membuat aplikasi ini aplikasi gambar yang lengkap dan di sini fitur-fiturnya dan bagaimana menggunakannya.
+\n 1. sebagian besar fitur tergantung pada sentuhan seperti (beralih antara gambar / zoom masuk - keluar / .. dll)
+\n 2. kami mencoba menggunakan pengenalan gambar alih-alih arti pengenal huruf (kebanyakan tombol Anda dapat mengetahui fitur-fiturnya hanya dari bentuknya saja)
+\n 3. aplikasi ini mendukung 24 bahasa yang berbeda
+\n 4. Anda memiliki banyak fitur dari dalam menu - bagikan, bantuan, tayangan slide gambar, orientasi beralih, buka opsi pribadi baru (gambar yang digabungkan dari galeri atau menggunakan kamera), perbesar dan perbaiki posisi gambar tanpa batas (untuk jeda zoom dan kembalikan gambar dengan menggesek klik pada menu), atur ulang gambar (gambar belakang ke ukuran asli, posisi dan tidak ada filter), pembersihan aplikasi (membersihkan aplikasi tanpa menghapus gambar).
+\n 5. filter gambar: Anda dapat menerapkan filter ini ke gambar, Anda harus menggunakan tingkat untuk menentukan tingkat filter yang Anda inginkan - tingkat antara 1 hingga 25 dan Anda dapat mengatur ulang gambar dari menu.
+\n 6. pengaturan gambar wallpaper: memberi Anda lebih banyak pilihan Anda dapat mengatur wallpaper gambar asli atau mengatur setelah menggunakan filter (mengatur layar kunci perlu android 7+)
+\n 7. menyimpan gambar: Anda dapat menyimpan gambar asli, menyimpan setelah menerapkan filter, menyimpan setelah mengubah ukuran dan posisi (dengan zoom) dan / atau menerapkan filter
+\n 8. dalam opsi baru pribadi Anda dapat menggunakan Shapes: Ini adalah bentuk yang berbeda dari gambar pemutar Anda membantu Anda untuk membuat gambar Anda sendiri dan daftar bentuk yang terkait dengan gambar yang Anda pilih dari daftar gambar dan setiap gambar memiliki 4 bentuk sehingga untuk ubah bentuk kembali - pilih gambar lainnya - menu - baru maka Anda akan mendapatkan bentuk lain.
+\n 9. dalam pilihan baru yang pribadi membuat gambar Anda dengan kamera: Anda dapat membuat gambar Anda sendiri menggunakan kamera dan bentuk juga Anda dapat menerapkan zoom in-out tanpa batas dan mengubah posisi ke bentuk seperti yang Anda inginkan kemudian tekan tombol kamera (di bawah layar)
+  lalu tunggu sekitar 3 detik untuk membuat gambar Anda.
+\n 10. dalam opsi baru yang membuat gambar Anda sendiri dengan galeri: Anda dapat membuat gambar sendiri menggunakan daftar lapisan, Anda memiliki dua lapisan di bagian atas dan bawah, Anda dapat memperolehnya dari galeri atau bentuk atau keduanya, Anda dapat menerapkan pembesaran tanpa batas tanpa batas dan mengubah posisi ke mereka sebagai yang Anda inginkan kemudian klik tombol kamera (di bawah layar) untuk membuat gambar Anda.
+\n 11. dalam opsi baru pribadi Anda dapat menerapkan zoom in - out dan mengubah posisi ke bentuk dan gambar galeri untuk membuat gambar yang sempurna.
+\n 12. setelah membuat foto Anda, itu akan menyimpan secara otomatis tetapi Anda dapat menerapkan filter dan menyimpan lagi setelah menerapkan filter.
+    \n nikmati dan dukung kami.</string>
+
+    <string-array name="set_array_3">
+    <item>  </item>
+    <item>mengatur wallpaper layar utama - gambar asli</item>
+    <item>mengatur wallpaper layar awal - filter saat ini</item>
+    <item>mengatur wallpaper layar kunci - gambar asli (android 7+)</item>
+    <item>mengatur layar kunci wallpaper-filter saat ini (android 7+)</item>
+    <item>mengatur keduanya - gambar asli (android 7+)</item>
+    <item>mengatur keduanya - filter saat ini (android 7+)</item>
+</string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>simpan gambar asli</item>
+        <item>simpan gambar dalam filter saat ini</item>
+        <item>simpan gambar seperti yang Anda lihat sekarang</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>pilih filter gambar (tingkat antara 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>kamera zoom</item>
+        <item>gambar zoom, ganti posisi</item>
+        <item>setel ulang gambar</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>pilih bentuk</item>
+        <item>bentuk 1</item>
+        <item>bentuk 2</item>
+        <item>bentuk 3</item>
+        <item>bentuk 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>perbesar lapisan atas</item>
+        <item>perbesar lapisan bawah</item>
+        <item>atur ulang lapisan atas</item>
+        <item>atur ulang lapisan bawah</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>lapisan atas (galeri)</item>
+        <item>lapisan atas (bentuk)</item>
+        <item>lapisan bawah (galeri)</item>
+        <item>lapisan bawah (bentuk)</item>
+        <item>atur ulang lapisan atas</item>
+        <item>atur ulang lapisan bawah</item>
+    </string-array>
+</resources>

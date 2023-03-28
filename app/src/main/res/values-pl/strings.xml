@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mohamed Salah najlepszy w Anglii</string>
+
+    <string name="too_big_level">nieistniejący poziom !! wprowadź poziom od 1–25 lub możesz zresetować obraz z menu</string>
+
+    <string name="level">poziom</string>
+
+    <string name="stop_zoom">kliknij menu, aby powrócić przesuwanie i wyłączyć zoom</string>
+
+    <string name="this_image">ten obraz</string>
+
+    <string name="saves_to">Zapisz w</string>
+
+    <string name="existing_images_3">ten obraz już istniał</string>
+
+    <string name="slide_show_4">rozpocznie się pokaz slajdów</string>
+
+    <string name="store_permission_error_3">nie możesz udostępniać ani zapisywać plików bez pozwolenia</string>
+
+    <string name="camera_permission_error_3">nie możesz używać kamery bez pozwolenia</string>
+
+    <string name="try_again">To jest w twojej pamięci, to zajmuje chwilę, by naprawić próbę ponownie</string>
+
+    <string name="set_wallpaper_success_3">zestaw tapet pomyślnie</string>
+
+    <string name="set_wallpaper_error_3">ustawienie tapety nie powiodło się !!</string>
+
+    <string name="set_wallpaper_andro_3">ustawienie tapety nie potrzebuje Androida 7 lub wyższej!</string>
+
+    <string name="check_internet">sprawdź połączenie sieciowe i spróbuj ponownie</string>
+
+    <string name="wait_3sec">odczekaj około 3 sekund podczas robienia zdjęcia</string>
+
+    <string name="share_title">Udostępnij obraz</string>
+
+    <string name="help_title">porcja jedzenia</string>
+
+    <string name="clearing_title">czyszczenie danych aplikacji</string>
+
+    <string name="clearing">czy na pewno chcesz wyczyścić dane aplikacji (czy nie usuwasz zapisywania obrazów aplikacji)?
+        to zamknie aplikację?</string>
+
+    <string name="never">Nigdy nie pokazuj się ponownie</string>
+
+    <string name="guide_title">Przewodnik aplikacji</string>
+
+    <string name="filters_guide">filtry obrazów: Możesz zastosować te filtry do obrazów, powinieneś użyć poziomu,
+        by określić wymagany poziom filtra - poziomy od 1 do 25 i możesz zresetować obraz z menu.</string>
+
+    <string name="mixing_gallery">tworzenie obrazu za pomocą galerii: możesz utworzyć własny obraz używając listy warstw,
+        które masz dwie warstwy - górną i dolną możesz pobrać je z galerii lub kształtów lub możesz zastosować nieograniczone
+        powiększanie i zmieniać pozycję do nich, jak chcesz, kliknij przycisk aparatu (poniżej ekranu), aby utworzyć obraz.</string>
+
+    <string name="mixing_camera">Tworzenie obrazu za pomocą aparatu: Możesz zrobić własny obraz za pomocą
+        aparatu i kształtów, możesz także zastosować nieograniczony zoom i zmienić pozycję do kształtu, jak chcesz,
+        a następnie naciśnij przycisk aparatu (poniżej ekranu), a następnie poczekaj około 3 sekund, aby utworzyć obraz .</string>
+
+    <string name="shapes_guide">kształty: są to różne kształty obrazu odtwarzacza pomagają utworzyć
+        własną listę obrazków i kształtów związanych z obrazem, który wybrałeś z listy obrazów, a każde zdjęcie ma 4 kształty, aby zmienić
+        kształty z powrotem - wybierz inne zdjęcie - menu - nowe wtedy dostaniesz inne kształty.</string>
+
+    <string name="help">staramy się, aby ta aplikacja była kompletną aplikacją do zdjęć, a tutaj jej funkcje i sposób korzystania z nich.
+\n 1. większość funkcji zależy od rodzaju dotyku (przełączanie między obrazami / powiększanie / pomniejszanie / .. itd.)
+\n 2. próbujemy użyć rozpoznawania obrazu zamiast znaczenia rozpoznawania liter (większość przycisków można poznać jego cechy tylko za pomocą kształtu)
+\n 3. aplikacja obsługuje 25 różne języki
+\n 4. masz wiele funkcji z menu - udział, pomoc, pokaz slajdów, orientacja przełącznika, otwórz nową prywatną opcję (obrazy miksujące z galerii lub używając kamery), powiększaj i zmieniaj położenie obrazu bez ograniczeń (do wstrzymaj powiększanie i zwróć obrazy przesuwając tylko po kliknięciu w menu), zresetuj obraz (obraz z powrotem do oryginalnego rozmiaru, położenie i bez filtra), czyszczenie aplikacji (czyszczenie bez usuwania zapisywania obrazów).
+\n 5. Filtry obrazów: Możesz zastosować te filtry do obrazów, powinieneś użyć poziomu, aby określić wymagany poziom filtra - poziomy od 1 do 25 i możesz zresetować obraz z menu.
+\n 6. Ustawianie tapety obrazu: daje więcej możliwości ustawienia oryginalnej tapety lub ustawienia obrazu po użyciu filtrów (ustaw ekran blokady wymaga Androida 7+)
+\n 7. zapisywanie obrazów: możesz zapisać oryginalny obraz, zapisać po zastosowaniu filtrów, zapisać po zmianie wielkości i pozycji (przez powiększenie) i / lub zastosować filtry
+\n 8. W prywatnej nowej opcji możesz użyć Kształty: Są to różne kształty obrazu odtwarzacza, które pomogą ci stworzyć własną listę obrazków i kształtów związanych z obrazem, który wybrałeś z listy obrazów, a każde zdjęcie ma 4 kształty, aby zmień kształty z powrotem - wybierz inny obraz - menu - nowy, a otrzymasz kolejne kształty.
+\n 9. w prywatnej nowej opcji tworzenia obrazu za pomocą aparatu: możesz zrobić własny obraz za pomocą aparatu i kształtów, a także zastosować nieograniczoną możliwość powiększania i zmieniać dowolne kształty, a następnie naciskać przycisk aparatu (poniżej ekranu)
+  następnie odczekaj około 3 sekund, aby utworzyć zdjęcie.
+\n 10. w prywatnej nowej opcji tworzenia obrazu z galerią: możesz zrobić własny obraz używając listy warstw, które masz dwie warstwy u góry i na dole, możesz je pobrać z galerii lub kształtów lub możesz zastosować nieograniczone powiększanie i zmieniać pozycję do nich jako chcesz, a następnie kliknij przycisk aparatu (poniżej ekranu), aby utworzyć obraz.
+\n 11. w prywatnej nowej opcji możesz zastosować powiększanie i zmieniać położenie na kształtach i galeriach, aby uzyskać idealny obraz.
+\n 12. po utworzeniu zdjęcia zostanie ono automatycznie zapisane, ale można zastosować filtry i zapisać ponownie po zastosowaniu filtrów.
+    \n ciesz się i wspieraj nas.</string>
+
+    <string-array name="set_array_3">
+        <item>	</item>
+        <item>ustaw tapetę ekranu głównego - obraz oryginalny</item>
+        <item>ustaw tapetę ekranu głównego - bieżący filtr</item>
+        <item>ustaw tapetę blokady ekranu - oryginalny obraz (Android 7+)</item>
+        <item>ustaw tapetę blokady ekranu - aktualny filtr (Android 7+)</item>
+        <item>ustaw oba - oryginalny obraz (Android 7+)</item>
+        <item>ustaw oba - bieżący filtr (Android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>	</item>
+        <item>zapisz oryginalny obraz</item>
+        <item>zapisz obraz w bieżącym filtrze</item>
+        <item>zapisz obraz, jak widzisz teraz</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>	</item>
+        <item>wybierz filtr obrazu (poziomy od 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>	</item>
+        <item>kamera zoom</item>
+        <item>powiększ obraz, zmień pozycję</item>
+        <item>resetuj obraz</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>	</item>
+        <item>wybierz kształt</item>
+        <item>kształt 1</item>
+        <item>kształt 2</item>
+        <item>kształt 3</item>
+        <item>kształt 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>	</item>
+        <item>powiększ górną warstwę</item>
+        <item>powiększ dolną warstwę</item>
+        <item>zresetuj górną warstwę</item>
+        <item>resetuj dolną warstwę</item>
+    </string-array>
+    <string-array name="layers">
+        <item>	</item>
+        <item>górna warstwa (galeria)</item>
+        <item>górna warstwa (kształty)</item>
+        <item>dolna warstwa (galeria)</item>
+        <item>dolna warstwa (kształty)</item>
+        <item>zresetuj górną warstwę</item>
+        <item>zresetuj dolną warstwę</item>
+    </string-array>
+
+</resources>

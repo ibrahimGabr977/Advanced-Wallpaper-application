@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah najbolji engleski stručnjak</string>
+
+    <string name="too_big_level">nije postojeća razina! unesite razinu između 1–25 ili možete resetirati sliku iz izbornika</string>
+
+    <string name="level">nivo</string>
+
+    <string name="stop_zoom">kliknite izbornik za povratak prelijevanja i onemogućavanje zumiranja</string>
+
+    <string name="this_image">ova slika</string>
+
+    <string name="saves_to">spremiti na</string>
+
+    <string name="existing_images_3">ta je slika već postojala</string>
+
+    <string name="slide_show_4">započinje prikaz slajdova</string>
+
+    <string name="store_permission_error_3">ne možete dijeliti ili spremati datoteke bez dozvole</string>
+
+    <string name="camera_permission_error_3">ne možete koristiti fotoaparat bez dozvole</string>
+
+    <string name="try_again">To je izvan vašeg pamćenja potrebno je trenutak da se popravi pokušaj ponovno</string>
+
+    <string name="set_wallpaper_success_3">pozadina uspješno postavljena</string>
+
+    <string name="set_wallpaper_error_3">postavljanje pozadine nije uspjelo!</string>
+
+    <string name="set_wallpaper_andro_3">postavljanje pozadine nije uspjelo potrebu android 7 ili više!</string>
+
+    <string name="check_internet">provjerite mrežnu vezu i pokušajte ponovo</string>
+
+    <string name="wait_3sec">pričekajte oko 3 sekunde dok snimate fotografiju</string>
+
+    <string name="share_title">dijelite sliku</string>
+
+    <string name="help_title">pomoć</string>
+
+    <string name="clearing_title">podaci aplikacije za čišćenje</string>
+
+    <string name="clearing">Jeste li sigurni da želite očistiti podatke aplikacije (ne izbrišite aplikaciju u spremanje slika)?
+        to će zatvoriti prijavu?</string>
+
+    <string name="never">nikada više ne pokazuju</string>
+
+    <string name="guide_title">vodič za primjenu</string>
+
+    <string name="filters_guide">slikovne filtre: te filtre možete primijeniti na slike, trebali biste upotrijebiti razinu za
+        određivanje željene razine filtra - razine između 1 i 25 i resetiranje slike iz izbornika.</string>
+
+    <string name="mixing_gallery">stvaranje svoje slike s galerijom: možete napraviti svoju sliku pomoću popisa slojeva imate dva
+        sloja - na vrhu i na dnu možete ih dobiti iz galerije ili oblika ili oboje možete primijeniti neograničeni zoom-out i promijeniti
+        položaj na njih kao što želite onda kliknite gumb kamere (ispod zaslona) da biste stvorili sliku.</string>
+
+    <string name="mixing_camera">stvaranje slike pomoću fotoaparata: možete napraviti svoju sliku pomoću kamere i oblika,
+        tako da možete primijeniti neograničeni zoom in out i promijeniti poziciju na oblike kako želite, a zatim pritisnite gumb
+        kamere (ispod zaslona) i pričekajte oko 3 sekunde da biste stvorili sliku.</string>
+
+    <string name="shapes_guide">oblike: to su različiti oblici slike vašeg igrača koji će vam pomoći da izradite
+        vlastiti popis slika i oblika koji se odnose na sliku koju ste odabrali iz popisa slika i svaka slika ima
+        4 oblika kako biste promijenili oblike natrag - odaberite drugu sliku - izbornik - novo onda ćete dobiti još jedan oblik.</string>
+
+    <string name="help">mi pokušavamo napraviti ovu aplikaciju kompletiranu aplikaciju slika i ovdje njegove značajke i kako ih koristiti.
+\n 1. većina značajki ovisno o dodirom poput (prebacivanje između slika / zumiranje in out / .. itd)
+\n 2. pokušavamo koristiti prepoznavanje slike umjesto značenja prepoznavanja slova (većina gumba možete poznavati njegove značajke samo po obliku)
+\n 3. aplikacija podržava 24 različita jezika
+\n 4. imate mnogo mogućnosti iz izbornika - dijeljenje, pomoć, dijaprojekcija slike, prebacivanje orijentacija, otvaranje nove privatne opcije (slike miješanja iz galerije ili fotoaparata), povećavanje zumiranja i promjene položaja slike bez ograničenja (do pauzirati zumiranje i vraćanje slika presavijeni samo kliknite na izbornik), resetirati sliku (povratak na izvornu veličinu, položaj i bez filtra), čišćenje aplikacija (aplikacija za čišćenje bez brisanja spremanja slika).
+\n 5. Slike filtera: Možete ih primijeniti na slike, trebali biste upotrijebiti razinu za određivanje željene razine filtra - razine između 1 i 25 i resetiranje slike iz izbornika.
+\n 6. Postavljanje pozadine slike: dajete više mogućnosti za postavljanje originalne pozadinske slike ili postavljanje nakon upotrebe filtara (postavite zaslon za zaključavanje potreban je android 7+)
+\n 7. spremanje slika: možete spremiti originalnu sliku, spremiti nakon primjene filtara, spremiti nakon veličine i položaja promjena (zumiranjem) i / ili primjenom filtara
+\n 8. u privatnoj novoj opciji možete koristiti oblike: To su različiti oblici slike vašeg igrača koji vam pomažu stvoriti vlastiti popis slika i oblika koji se odnose na sliku koju ste odabrali iz popisa slika i svaka slika ima 4 oblika kako bi promijeniti oblike natrag - odabrati drugu sliku - izbornik - novi onda ćete dobiti još jedan oblik.
+\n 9. u privatnoj novoj opciji stvaranje slike pomoću fotoaparata: možete napraviti vlastitu sliku pomoću kamere i oblika, tako da možete primijeniti neograničeni zoom-out i promijeniti poziciju na oblike po želji, a zatim pritisnite tipku fotoaparata (ispod zaslona)
+  zatim pričekajte oko 3 sekunde da biste stvorili sliku.
+\n 10. u privatnoj novoj opciji stvaranje vaše slike s galerijom: možete napraviti svoju sliku pomoću popisa slojeva s dva sloja na vrhu i na dnu možete ih dobiti iz galerije ili oblika ili oboje možete primijeniti neograničeni zoom in-out i promijeniti položaj na njih kao Zatim kliknite gumb kamere (ispod zaslona) da biste stvorili sliku.
+\n 11. u privatnoj novoj opciji možete primijeniti zumiranje i promijeniti poziciju na oblike i slike galerije kako biste napravili savršenu sliku.
+\n 12. nakon izrade fotografije automatski će se spremiti, ali možete primijeniti filtre i ponovno spremiti nakon primjene filtara.
+    \n uživajte i podržavajte nas.</string>
+
+    <string-array name="set_array_3">
+        <item>	</item>
+        <item>postavite pozadinu početnog zaslona - originalnu sliku</item>
+        <item>postavite pozadinu početnog zaslona - trenutni filtar</item>
+        <item>postavite zaslonsku pozadinu zaslona - originalnu sliku (android 7+)</item>
+        <item>postavite zaslonsku pozadinu zaslona - trenutni filtar (android 7+)</item>
+        <item>postavite oboje - originalnu sliku (android 7+)</item>
+        <item>postavite oba - trenutni filtar (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>	</item>
+        <item>spremite originalnu sliku</item>
+        <item>spremite sliku u trenutnom filtru</item>
+        <item>spremite sliku kao što sada vidite</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>	</item>
+        <item>odaberite filtar za slike (razine između 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>	</item>
+        <item>zoom kamera</item>
+        <item>zumiranje slike, promjena položaja</item>
+        <item>resetiraj sliku</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>	</item>
+        <item>odaberite oblik</item>
+        <item>oblik 1</item>
+        <item>oblik 2</item>
+        <item>oblik 3</item>
+        <item>oblik 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>	</item>
+        <item>zoom top layer</item>
+        <item>zumiranje donjeg sloja</item>
+        <item>resetiraj gornji sloj</item>
+        <item>resetiraj donji sloj</item>
+    </string-array>
+    <string-array name="layers">
+        <item>	</item>
+        <item>gornji sloj (galerija)</item>
+        <item>gornji sloj (oblici)</item>
+        <item>donji sloj (galerija)</item>
+        <item>donji sloj (oblici)</item>
+        <item>resetiraj gornji sloj</item>
+        <item>resetiraj donji sloj</item>
+    </string-array>
+
+</resources>

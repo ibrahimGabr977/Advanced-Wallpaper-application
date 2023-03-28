@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah a legjobb angol szakember</string>
+
+    <string name="too_big_level">nem létező szint! írja be a szintet 1–25 közé, vagy visszaállíthatja a képet a menüből</string>
+
+    <string name="level">szint</string>
+
+    <string name="stop_zoom">Kattintson a menüre a kicsinyítés visszavonásához és a zoom letiltásához</string>
+
+    <string name="this_image">ez a kép</string>
+
+    <string name="saves_to">Mentés ide</string>
+
+    <string name="existing_images_3">ez a kép már létezett</string>
+
+    <string name="slide_show_4">a képek diavetítésének megjelenítése</string>
+
+    <string name="store_permission_error_3">a fájlokat nem lehet megosztani vagy menteni engedély nélkül</string>
+
+    <string name="camera_permission_error_3">a kamerát nem engedélyezheti</string>
+
+    <string name="try_again">Ez nem a memóriában van, egy pillanatig tart, hogy megpróbálja újra megpróbálni</string>
+
+    <string name="set_wallpaper_success_3">háttérképet sikeresen beállított</string>
+
+    <string name="set_wallpaper_error_3">a tapéta beállítása sikertelen!</string>
+
+    <string name="set_wallpaper_andro_3">beállítás háttérkép nem kell android 7 vagy magasabb!</string>
+
+    <string name="check_internet">ellenőrizze a hálózati kapcsolatot, és próbálja újra</string>
+
+    <string name="wait_3sec">várjon kb. 3 másodpercig a fénykép elkészítése közben</string>
+
+    <string name="share_title">megosztani a képet</string>
+
+    <string name="help_title">segít</string>
+
+    <string name="clearing_title">tisztítási alkalmazási adatok</string>
+
+    <string name="clearing">Biztosan meg szeretné-e tisztítani az alkalmazásadatokat (nem törli az alkalmazás mentése képeket)?
+        bezárja az alkalmazást?</string>
+
+    <string name="never">soha többé nem jelenik meg</string>
+
+    <string name="guide_title">alkalmazási útmutató</string>
+
+    <string name="filters_guide">képek szűrők: Ezeket a szűrőket alkalmazhatja képekre, a kívánt szintű szűrőszintet kell használni
+        a szinttel – a szintek között 1-25, és a képeket visszaállíthatja a menüből.</string>
+
+    <string name="mixing_gallery">kép létrehozása a galériával: létrehozhat saját képet a réteglista segítségével, amely két réteggel
+        rendelkezik - a felső és az alsó részen galériából vagy formákból lehet hozzájutni, vagy mindkettő korlátlan zoomot alkalmazhat,
+        kattintson a kamera gombra (a képernyő alatt) a kép létrehozásához.</string>
+
+    <string name="mixing_camera">kép létrehozása a fényképezőgéppel: Képeket készíthet a fényképezőgéppel és az alakzatokkal,
+        akkor korlátlan zoomot is alkalmazhat, és módosíthatja pozícióját a kívánt alakzatokhoz, majd nyomja meg a kamera gombot
+        (a képernyő alatt), majd várjon kb. 3 másodpercig a kép létrehozásához .</string>
+
+    <string name="shapes_guide">formák: ezek a formátumok különböző formáit segítik létrehozni saját képét és alakjait,
+        amely a képlistából kiválasztott képhez kapcsolódik, és minden képnek 4 alakja van, így megváltoztathatja
+        az alakzatokat - válasszon más képet - menü - új akkor kapsz egy másik alakot.</string>
+
+    <string name="help">megpróbáljuk elkészíteni ezt az alkalmazást egy teljes képalkalmazásnak, itt a funkciók és a használatuk módja.
+\n 1. a legtöbb funkció függ az érintés hasonló (váltás a képek között / nagyítás / .. stb)
+\n 2. a felismerés helyett a képfelismerés használatát próbáljuk meg használni (a legtöbb gomb csak a formáját tudja ismeri)
+\n 3. az alkalmazás támogatja a 24 különböző nyelvet
+\n 4. számos funkció van a menüben - megosztás, segítség, kép diavetítés, kapcsoló tájolása, új privát opció (képek galériából vagy kamerával keveredik), zoom-kibillentés és a kép helyzetének korlátozása nélkül szüneteltetheti a zoomot és visszaadhatja a képeket, csak a menüre kattintva), a kép visszaállítása (vissza az eredeti mérethez, pozíció és nincs szűrő), az alkalmazás tisztítása (tisztítási alkalmazás a képek mentése nélkül).
+\n 5. képszűrők: Ezeket a szűrőket alkalmazhatja képekre, a szintet kell megadnia a kívánt szűrőszint meghatározásához - a szintek között 1-25, és visszaállíthatja a képet a menüből.
+\n 6. a kép háttérképének beállítása: adjon meg több lehetőséget az eredeti kép háttérképének beállítására vagy a szűrők használata után állítsa be (set lock screen need android 7+)
+\n 7. Képek mentése: elmentheti az eredeti képet, mentheti a szűrőket, mentheti a változás méretét és pozícióját (nagyítással) és / vagy szűrőket alkalmazva
+\n 8. Saját új opcióban használhatja az alakzatokat: Ezek a formátumok különböző formáit segítik létrehozni saját képét és alakzatát, amely a képlistából kiválasztott képhez tartozik, és minden képnek 4 alakja van, így cserélje vissza az alakzatokat - válasszon másik képet - menüt - új, akkor kap egy másik alakot.
+\n 9. privát új opcióval a fényképezőgéppel történő kép létrehozásakor: a saját képét a kamerával és alakzatokkal készítheti el, akkor korlátlan zoomot is alkalmazhat, és módosíthatja a pozícióját a kívánt alakzatokhoz, majd nyomja meg a kamera gombot (a képernyő alatt)
+  majd várjon kb. 3 másodpercig a kép létrehozásához.
+\n 10. a privát új opcióban a kép galériával való létrehozása: saját képeket készíthet a réteglista segítségével, amelyen két réteg van felülről és alulról, amelyekről galériából vagy formákból lehet őket kinyerni, vagy mindkettő korlátlan nagyítással és helyváltoztatással akkor a kép létrehozásához kattintson a kamera gombra (a képernyő alatt).
+\n 11. a privát új opcióban a nagyításhoz és a pozíciók alakításához és a galériákhoz való alkalmazkodás érdekében tökéletes képet készíthet.
+\n 12. a kép létrehozása után automatikusan mentésre kerül, de szűrők alkalmazása után újra mentheti a szűrőket.
+    \n élvezze és támogat minket.</string>
+
+    <string-array name="set_array_3">
+        <item>  </item>
+        <item>otthoni képernyő háttérképének beállítása - eredeti kép</item>
+        <item>állítsa be a kezdőképernyőt - aktuális szűrő</item>
+        <item>beállít képernyővédő háttérképet - eredeti kép (android 7+)</item>
+        <item> beállít képernyővédő tapéta -áram szűrő (android 7+)</item>
+        <item>mind az eredeti kép (android 7+)</item>
+        <item>mindkettőt beállítani - jelenlegi szűrő (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>mentse az eredeti képet</item>
+        <item>mentse a képet az aktuális szűrőben</item>
+        <item>mentse el a képet, ahogy látja</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>válassza ki a képszűrőt (1–25 közötti szintek)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>zoom kamera</item>
+        <item>zoom kép, pozíció megváltoztatása</item>
+        <item>visszaállítja a képet</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>válasszon alakot</item>
+        <item>alak 1</item>
+        <item>forma 2</item>
+        <item>forma 3</item>
+        <item>alak 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>zoom felső réteg</item>
+        <item>zoom alsó réteg</item>
+        <item>reset felső réteg</item>
+        <item>reset alsó réteg</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>felső réteg (galéria)</item>
+        <item>felső réteg (alakok)</item>
+        <item>alsó réteg (galéria)</item>
+        <item>alsó réteg (alakok)</item>
+        <item>reset felső réteg</item>
+        <item>reset alsó réteg</item>
+    </string-array>
+</resources>

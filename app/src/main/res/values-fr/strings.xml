@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="app_name" >mohamed salah le meilleur de l\'angleterre professionnel</string>
+
+    <string name="too_big_level">niveau non existant !! entrez un niveau entre 1 et 25 ou vous pouvez réinitialiser l\’image du menu</string>
+
+    <string name="level">niveau</string>
+
+    <string name="stop_zoom">cliquez sur le menu pour retourner le balayage et désactiver le zoom</string>
+
+    <string name="this_image">cette image</string>
+
+    <string name="saves_to">enregistrer dans</string>
+
+    <string name="existing_images_3">cette image a déjà existé</string>
+
+    <string name="slide_show_4">diaporama d\'images commence</string>
+
+    <string name="store_permission_error_3">vous ne pouvez pas partager ou sauvegarder des fichiers sans autorisation</string>
+
+    <string name="camera_permission_error_3">vous ne pouvez pas utiliser l\'appareil photo sans permission</string>
+
+    <string name="try_again">C\'est hors de votre mémoire, il faut un moment pour réparer essayez à nouveau maintenant</string>
+
+    <string name="set_wallpaper_success_3">papier peint mis avec succès</string>
+
+    <string name="set_wallpaper_error_3">la mise en place du papier peint a échoué !!</string>
+
+    <string name="set_wallpaper_andro_3">la mise en place du papier peint a échoué besoin Android 7 ou supérieur !!</string>
+
+    <string name="check_internet">veuillez vérifier votre connexion réseau et réessayer</string>
+
+    <string name="wait_3sec">attendez environ 3 secondes tout en faisant votre photo</string>
+
+    <string name="share_title">partager l\'image</string>
+
+    <string name="help_title">portion</string>
+
+    <string name="clearing_title" >nettoyage des données d\'application</string>
+
+    <string name="clearing">Êtes-vous sûr de vouloir nettoyer les données de l\'application (ne supprime pas votre application
+        en enregistrant des images) ?? ça va fermer l\'application ??</string>
+
+    <string name="never">ne plus afficher</string>
+
+    <string name="guide_title">guide d\'application</string>
+
+    <string name="filters_guide">Filtres d\'images: Vous pouvez appliquer ces filtres aux images. Vous devez utiliser level pour spécifier
+        le niveau de filtre souhaité (niveaux compris entre 1 et 25) et vous pouvez réinitialiser l\'image à partir du menu.</string>
+
+    <string name="mixing_gallery">création de votre image avec galerie: vous pouvez créer votre propre image à l\'aide de la liste
+        des calques. Vous avez deux calques. En haut et en bas, vous pouvez les obtenir à partir d\'une galerie ou de formes, ou vous
+        pouvez appliquer un zoom illimité et modifier leur position à votre guise. Cliquez sur le bouton de l\'appareil photo (sous l\'écran)
+        pour créer votre image.</string>
+
+    <string name="mixing_camera">création de votre image avec l\'appareil photo: vous pouvez créer votre propre image à
+        l\'aide de l\'appareil photo et des formes. Vous pouvez également appliquer un zoom avant et arrière illimité et modifier
+        la position des formes à votre guise, puis appuyer sur le bouton de l\'appareil photo (sous l\'écran), puis attendre environ 3
+        secondes pour créer votre image. .</string>
+
+    <string name="shapes_guide">formes: ce sont des formes différentes de votre image de lecteur qui vous aident à créer votre propre
+        image et une liste de formes liée à l\'image que vous avez sélectionnée dans la liste d\'images et chaque image possède 4 formes
+        afin de changer de forme et de sélectionner en arrière une autre image - menu - nouveau alors vous obtiendrez d\'autres formes.</string>
+
+    <string name="help">nous essayons de faire de cette application une application d\’image complète et d\’ici ses fonctionnalités et son utilisation.
+\n 1. la plupart des fonctionnalités en fonction du toucher aiment (basculer entre les images / zoom-out / .. etc)
+\n 2. nous essayons d\’utiliser la reconnaissance d\’image au lieu de la reconnaissance de lettres (la plupart des boutons permettent de connaître ses caractéristiques uniquement par sa forme)
+\n 3. l\'application prend en charge 25 langues différentes
+\n 4. vous avez de nombreuses fonctionnalités dans le menu - partage, aide, diaporama d\’images, changement d\’orientation, ouverture d\’une nouvelle option privée (images mélangées à partir de la galerie ou à l\’aide de la caméra), zoom avant et modification de la position de l\’image sans limite ( suspendre le zoom et renvoyer les images en cliquant simplement sur le menu), réinitialiser l\'image (l\'image précédente à sa taille d\'origine, la position et l\'absence de filtre), le nettoyage de l\'application (nettoyage de l\'application sans suppression des images enregistrées).
+\n 5. filtres d\’image: vous pouvez appliquer ces filtres aux images. Vous devez utiliser level pour spécifier le niveau de filtre souhaité (niveaux compris entre 1 et 25) et vous pouvez réinitialiser l\’image depuis le menu.
+\n 6. paramétrer le fond d\’écran de l\’image: donne plus d\’options que vous pouvez définir pour le fond d\’écran de l\’image originale ou après l\’utilisation de filtres
+\n 7. enregistrement des images: vous pouvez enregistrer l\’image originale, enregistrer après application des filtres, enregistrer après modification de la taille et de la position (par zoom) et / ou application de filtres
+\n 8. Dans les nouvelles options privées, vous pouvez utiliser les formes: il s\’agit de formes différentes de votre image de lecteur, qui vous aident à créer votre propre liste d\’images et de formes liée à l\’image que vous avez sélectionnée dans la liste des images. Chaque image possède 4 formes changer de forme arrière - sélectionner une autre image - menu - nouveau, vous obtiendrez une autre forme.
+\n 9. Nouvelle option privée pour créer votre image avec l\'appareil photo: vous pouvez créer votre propre image à l\'aide de l\'appareil photo et des formes. Vous pouvez également appliquer un zoom illimité à l\'entrée et modifier la position des formes à votre guise, puis appuyer sur le bouton de l\'appareil photo (sous l\'écran).
+  attendez environ 3 secondes pour créer votre image.
+\n 10. en privé nouvelle option création de votre image avec la galerie: vous pouvez créer votre propre image en utilisant la liste des calques vous avez deux calques en haut et en bas, vous pouvez les obtenir à partir de la galerie ou des formes ou les deux vous pouvez appliquer un zoom illimité à l\’extérieur et changer leur position comme vous voulez, puis cliquez sur le bouton de la caméra (écran ci-dessous) pour créer votre image.
+\n 11. dans une nouvelle option privée, vous pouvez appliquer un zoom avant / arrière et modifier la position des formes et des images de la galerie pour obtenir une image parfaite.
+\n 12. Après avoir créé votre photo, la sauvegarde s\’effectue automatiquement, mais vous pouvez appliquer des filtres et enregistrer à nouveau après l\’application des filtres.
+    \n apprécie et soutiens-nous.</string>
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>définir le fond d\'écran de l\'écran d\'accueil - image d\'origine</item>
+        <item>définir le fond d\'écran de l\'écran d\'accueil - filtre actuel</item>
+        <item>définir le fond d\'écran de verrouillage - image d\'origine (android 7+)</item>
+        <item>définir le fond d\'écran de verrouillage - filtre actuel (android 7+)</item>
+        <item>définir les deux - image d\'origine (Android 7+)</item>
+        <item>régler les deux - filtre actuel (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>enregistrer l\'image d\'origine</item>
+        <item>enregistrer l\'image dans le filtre actuel</item>
+        <item>enregistrer l\'image que vous voyez maintenant</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>sélection du filtre d\'image (niveaux compris entre 1 et 25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>zoom camera</item>
+        <item>zoomer l\'image, changer de position</item>
+        <item>réinitialiser l\'image</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>sélectionner la forme</item>
+        <item>forme 1</item>
+        <item>forme 2</item>
+        <item>forme 3</item>
+        <item>forme 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>zoom top layer</item>
+        <item>zoom bottom layer</item>
+        <item>réinitialiser la couche supérieure</item>
+        <item>réinitialiser la couche inférieure</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>couche supérieure (galerie)</item>
+        <item>couche supérieure (formes)</item>
+        <item>couche inférieure (galerie)</item>
+        <item>couche inférieure (formes)</item>
+        <item>réinitialiser la couche supérieure</item>
+        <item>réinitialiser la couche inférieure</item>
+    </string-array>
+
+</resources>

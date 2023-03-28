@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "936222670259",
+    "firebase_url": "https://mosalah-eb905.firebaseio.com",
+    "project_id": "mosalah-eb905",
+    "storage_bucket": "mosalah-eb905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936222670259:android:afdd2390c1926482",
+        "android_client_info": {
+          "package_name": "com.gabr.ibrahim.mohammedsalahthebestofengland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936222670259-9d51av24e8gpiv4spoktb0fve0dc8llu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4GsXcU37egn-3rtwfCN3BRg7TT67W5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936222670259:android:504efd7c4d215137",
+        "android_client_info": {
+          "package_name": "com.gabr.ibrahim.mohammedsalahthebestofenglandpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936222670259-9d51av24e8gpiv4spoktb0fve0dc8llu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4GsXcU37egn-3rtwfCN3BRg7TT67W5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

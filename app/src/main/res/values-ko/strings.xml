@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">모하마드 salah 최고의 잉글랜드 전문가</string>
+
+    <string name="too_big_level">기존 레벨이 아님 !! 1–25 사이의 레벨을 입력하거나 메뉴에서 이미지를 재설정 할 수 있습니다.</string>
+
+    <string name="level">수평</string>
+
+    <string name="stop_zoom">메뉴를 클릭하여 스 와이프 및 줌 해제로 돌아갑니다.</string>
+
+    <string name="this_image">이 사진</string>
+
+    <string name="saves_to">~에 저장하다</string>
+
+    <string name="existing_images_3">이 이미지는 이미 존재했다.</string>
+
+    <string name="slide_show_4">이미지 슬라이드 쇼 시작</string>
+
+    <string name="store_permission_error_3">권한없이 파일을 공유하거나 저장할 수 없습니다.</string>
+
+    <string name="camera_permission_error_3">허락없이 카메라를 사용할 수 없다.</string>
+
+    <string name="try_again">그게 너의 기억에 없다. 다시 시도하자.</string>
+
+    <string name="set_wallpaper_success_3">배경 화면이 성공적으로 설정되었습니다.</string>
+
+    <string name="set_wallpaper_error_3">배경 화면을 설정하지 못했습니다!</string>
+
+    <string name="set_wallpaper_andro_3">배경 화면 설정 필요 안드로이드 7 이상!</string>
+
+    <string name="check_internet">네트워크 연결을 확인하고 다시 시도하십시오.</string>
+
+    <string name="wait_3sec">사진을 찍는 동안 약 3 초 정도 기다려주세요.</string>
+
+    <string name="share_title">이미지 공유</string>
+
+    <string name="help_title">거들기</string>
+
+    <string name="clearing_title">응용 프로그램 데이터 정리</string>
+
+    <string name="clearing">응용 프로그램 데이터를 정리 하시겠습니까 (이미지 저장 응용 프로그램을 삭제하지 않습니까)? 그것은 응용 프로그램을 닫습니다 ??</string>
+
+    <string name="never">다시 표시하지 않음</string>
+
+    <string name="guide_title">신청 가이드</string>
+
+    <string name="filters_guide">이미지 필터 :이 필터를 이미지에 적용 할 수 있습니다. 레벨을 사용하여 원하는 필터 레벨을 지정해야합니다.
+        레벨은 1에서 25 사이이며 메뉴에서 이미지를 재설정 할 수 있습니다.</string>
+
+    <string name="mixing_gallery">갤러리로 이미지 만들기 : 레이어 목록을 사용하여 자신 만의 이미지를 만들 수 있습니다.
+        상단 및 하단에 갤러리 나 도형에서 가져올 수 있습니다. 또는 둘 다 무제한으로 축소하고 원하는대로 위치를 변경할 수 있습니다. 카메라 버튼 (아래 화면)을 클릭하여 이미지를 만듭니다.</string>
+
+    <string name="mixing_camera">카메라로 이미지 만들기 : 카메라와 모양을 사용하여 자신 만의 이미지를 만들 수도 있습니다.
+        원하는대로 무제한 줌인을 적용하고 위치를 도형으로 변경 한 다음 카메라 버튼 (아래 스크린)을 누른 다음 약 3 초 동안 이미지를 만들 수 있습니다. .</string>
+
+    <string name="shapes_guide">셰이프 : 플레이어 이미지의 모양이 다릅니다. 이미지 목록에서 선택한 이미지와 관련된 셰이프 목록과 이미지 목록을 만들 수 있습니다.
+        모든 이미지는 셰이프가 4 가지이므로 다시 모양을 변경할 수 있습니다. 그러면 다른 모양을 얻을 수 있습니다.</string>
+
+    <string name="help">우리는이 응용 프로그램을 완성 된 이미지 응용 프로그램과 여기에 기능 및 사용 방법으로 만들려고합니다.
+\n 1. 대부분의 기능은 터치 (이미지 간 전환 / 확대 / 축소 등)에 따라 다릅니다.
+\n 2. 문자 인식의 의미 대신에 이미지 인식을 사용하려고합니다 (대부분의 버튼은 모양으로 만 기능을 알 수 있습니다)
+\n 3. 응용 프로그램은 24 개의 다른 언어를 지원합니다.
+\n 4. 공유 메뉴, 도움말, 이미지 슬라이드 쇼, 방향 전환, 새로운 개인 옵션 (갤러리에서 믹싱하거나 카메라 사용), 확대 및 이미지 위치를 제한없이 열 수 있습니다. 이미지를 다시 원래 크기, 위치 및 필터 없음으로 재설정), 응용 프로그램 정리 (이미지 저장을 삭제하지 않고 응용 프로그램 정리) 등의 작업을 수행 할 수 있습니다.
+\n 5. 이미지 필터 :이 필터를 이미지에 적용 할 수 있습니다. 레벨을 사용하여 원하는 필터 레벨을 지정해야합니다. 레벨은 1에서 25 사이이며 메뉴에서 이미지를 재설정 할 수 있습니다.
+\n 6. 이미지 벽지 설정 : 필터를 사용하여 원본 이미지 배경 화면을 설정하거나 설정할 수있는 더 많은 옵션을 제공합니다 (잠금 화면 설정은 Android 7 이상 필요).
+\n 7. 이미지 저장 : 원본 이미지 저장, 필터 적용 후 저장, 크기 및 위치 변경 후 저장 (확대 / 축소) 및 / 또는 필터 적용
+\n 8. 비공개로 새로운 옵션을 사용할 수 있습니다. 모양 : 플레이어 이미지의 모양이 다릅니다. 이미지 목록에서 선택한 이미지와 관련된 이미지 및 모양 목록을 만들 수 있습니다. 이미지마다 4 가지 모양이 있습니다. 도형을 다시 변경 - 다른 이미지를 선택 - 메뉴 - 새로운 그러면 다른 도형을 얻을 수 있습니다.
+\n 9. 카메라로 이미지를 만드는 비공개 새 옵션 : 카메라와 모양을 사용하여 자신 만의 이미지를 만들 수 있으며 무제한 확대 / 축소를 적용하고 원하는대로 위치를 도형으로 변경 한 다음 카메라 버튼 (아래 화면)
+  그런 다음 약 3 초 정도 기다려서 이미지를 만듭니다.
+\n 10. 갤러리로 이미지를 만드는 비공개 새로운 옵션 : 레이어 목록을 사용하여 자신 만의 이미지를 만들 수 있습니다. 상하 두 개의 레이어가 있습니다. 갤러리 나 도형에서 가져올 수 있습니다. 둘 다 무제한 확대 / 축소를 적용하고 위치를 변경할 수 있습니다. 그런 다음 카메라 버튼 (아래 화면)을 클릭하여 이미지를 만듭니다.
+\n 11. 비공개로 새로운 옵션을 사용하면 줌 인을 적용하고 위치를 모양 및 갤러리 이미지로 변경하여 완벽한 이미지를 만들 수 있습니다.
+\n 12. 사진을 만든 후에 자동으로 저장되지만 필터를 적용한 후에 필터를 적용하고 다시 저장할 수 있습니다.
+    \n 우리를 즐기고 지원하십시오.</string>
+
+    <string-array name="set_array_3">
+       <item> </item>
+        <item>홈 화면 배경 화면 설정 - 원본 이미지</item>
+        <item>홈 화면 배경 화면 설정 - 현재 필터</item>
+        <item>잠금 화면 배경 화면 - 원본 이미지 (android 7 +)</item>
+        <item>잠금 화면 배경 화면 - 현재 필터 (안드로이드 7+)</item>
+        <item>둘 다 설정 - 원본 이미지 (android 7+)</item>
+        <item>둘 다 설정 - 현재 필터 (안드로이드 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>원본 이미지 저장</item>
+        <item>현재 필터에 이미지 저장</item>
+        <item>지금 보시는 것처럼 이미지 저장</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>이미지 필터 선택 (레벨 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>줌 카메라</item>
+        <item>이미지 확대, 위치 변경</item>
+        <item>이미지 재설정</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>모양 선택</item>
+        <item>모양 1</item>
+        <item>모양 2</item>
+        <item>모양 3</item>
+        <item>모양 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>줌 톱 레이어</item>
+        <item>아래쪽 레이어 확대 / 축소</item>
+        <item>재설정 상단 레이어</item>
+        <item>리셋 하단 레이어</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>최상위 레이어 (갤러리)</item>
+        <item>최상위 레이어 (도형)</item>
+        <item>하단 레이어 (갤러리)</item>
+        <item>바닥 레이어 (도형)</item>
+        <item>재설정 상단 레이어</item>
+        <item>재설정 하단 레이어</item>
+    </string-array>
+
+</resources>

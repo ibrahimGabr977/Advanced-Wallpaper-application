@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah det bästa av england professionell</string>
+
+    <string name="too_big_level">inte befintlig nivå !! Ange nivå mellan 1–25 eller du kan återställa bilden från menyn</string>
+
+    <string name="level">nivå</string>
+
+    <string name="stop_zoom">klicka på menyn för att returnera swiping och inaktivera zoomning</string>
+
+    <string name="this_image">Denna bilden</string>
+
+    <string name="saves_to">spara till</string>
+
+    <string name="existing_images_3">den här bilden har redan existerat</string>
+
+    <string name="slide_show_4">bilder bildspel startar</string>
+
+    <string name="store_permission_error_3">Du kan inte dela eller spara filer utan tillstånd</string>
+
+    <string name="camera_permission_error_3">Du kan inte använda kameran utan tillstånd</string>
+
+    <string name="try_again">Det är dags att ta ett ögonblick för att fixa försök igen</string>
+
+    <string name="set_wallpaper_success_3">Tapetet är framgångsrikt</string>
+
+    <string name="set_wallpaper_error_3">inställning av tapet misslyckades !!</string>
+
+    <string name="set_wallpaper_andro_3">inställning tapet misslyckades behöver android 7 eller högre !!</string>
+
+    <string name="check_internet">Kontrollera din nätverksanslutning och försök igen</string>
+
+    <string name="wait_3sec">vänta ungefär 3 sekunder när du gör ditt foto</string>
+
+    <string name="share_title">dela bild</string>
+
+    <string name="help_title">portion</string>
+
+    <string name="clearing_title">rengöringsapplikationsdata</string>
+
+    <string name="clearing">är du säker på att du vill rengöra programdata (tar inte bort din ansökan som sparar bilder) ??
+        det kommer stänga ansökan ??</string>
+
+    <string name="never">visa aldrig igen</string>
+
+    <string name="guide_title">applikationsguide</string>
+
+    <string name="filters_guide">bilder filter: Du kan tillämpa dessa filter på bilder, du bör använda nivå för att ange önskad
+        filternivå - nivåer mellan 1 och 25 och du kan återställa bilden från menyn</string>
+
+    <string name="mixing_gallery">skapa din bild med galleri: du kan skapa din egen bild med hjälp av laglistor som du har två
+        lager - både upp och ner kan du få dem från galleri eller former eller båda kan du tillämpa obegränsad zoom in och
+        ut och byta position till dem som du vill då klicka på kameraknappen (under skärmen) för att skapa din bild.</string>
+
+    <string name="mixing_camera">skapa din bild med kamera: Du kan skapa din egen bild med hjälp av kameran och formerna.
+        Du kan också använda obegränsad zoom in och ut och byta position till former som du vill, tryck sedan på kameraknappen
+        (under skärmen) och vänta sedan ca 3 sekunder för att skapa din bild .</string>
+
+    <string name="shapes_guide">former: det här är olika former av din spelarbild hjälper dig att skapa din egen bild- och bildlista
+        med anknytning till bilden som du valt från bildlistan och varje bild har 4 former så att du kan ändra former tillbaka
+        - välj annan bild - meny - ny då får du en annan form.</string>
+
+    <string name="help">vi försöker göra denna applikation till en färdigbildsapplikation och här dess funktioner och hur man använder dem.
+\n 1. De flesta funktioner beroende på beröring som (växla mellan bilder / zoom in / ut / .. etc)
+\n 2. vi försöker använda bildigenkänning i stället för bokstäver erkännande mening (de flesta knappar du kan känna till dess funktioner endast i form)
+\n 3. Programmet stöder 25 olika språk
+\n 4. Du har många funktioner i menyn - dela, hjälp, bildspel, byta orientering, öppna nya privata alternativ (bilder blandas från galleri eller med kamera), zooma in och ändra bildposition utan gränser (till pausa zoom och returnera bilder swiping klicka bara på menyn), återställ bild (tillbaka bild till originalstorlek, position och inget filter), programrengöring (rengöringsprogram utan att radera spara bilder).
+\n 5. bilder filter: Du kan tillämpa dessa filter på bilder, du bör använda nivå för att ange önskad filternivå - nivåer mellan 1 och 25 och du kan återställa bilden från menyn.
+\n 6. Ange bildblixt: ge dig fler alternativ du kan ställa in originalblixtblixt eller ställa in efter att du har använt filter (inställd låsskärm behöver android 7+)
+\n 7. spara bilder: du kan spara originalbilden, spara efter att du har använt filter, spara efter ändringsstorlek och position (genom att zooma) och / eller tillämpa filter
+\n 8. I privat nytt alternativ kan du använda Former: Det här är olika former av din spelarbild hjälper dig att skapa din egen bild- och formlista med anknytning till bilden som du valt från bildlistan och varje bild har 4 former så ändra former tillbaka - välj annan bild - meny - ny då får du en annan form.
+\n 9. I privat nytt alternativ som skapar din bild med kamera: du kan skapa din egen bild med hjälp av kameran och formerna. Du kan också använda obegränsad zoom in och ut och byta position till former som du vill, tryck sedan på kameraknappen (under skärmen)
+  vänta sedan ca 3 sekunder för att skapa din bild.
+\n 10. i privat nytt alternativ skapa din bild med galleri: du kan skapa din egen bild med hjälp av laglistor med två lager över och under kan du få dem från galleri eller former eller båda kan du använda obegränsad zoom in och ut och ändra position till dem som du vill då klicka på kameraknappen (under skärmen) för att skapa din bild.
+\n 11. I privat nytt alternativ kan du söka inzoom och ändra position till former och galleri bilder för att göra en perfekt bild.
+\n 12. Efter att du har skapat ditt foto sparas det automatiskt, men du kan använda filter och spara igen efter att du har använt filter.
+    \n njut och stödja oss.</string>
+
+    <string-array name="set_array_3">
+        <item>  </item>
+        <item>ställa in startskärmsbild - originalbild</item>
+        <item>Ställ in startskärmsbild - nuvarande filter</item>
+        <item>ställ in låsskärmsbild - originalbild (android 7+)</item>
+        <item>Ange lås skärm tapet-strömfilter (android 7+)</item>
+        <item>Ange båda - originalbilden (Android 7+)</item>
+        <item>ställ in båda - nuvarande filter (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>  </item>
+        <item>spara originalbilden</item>
+        <item>spara bild i nuvarande filter</item>
+        <item>spara bild som du ser nu</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>  </item>
+        <item>välj bildfilter (nivåer mellan 1–25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>   </item>
+        <item>zoomkamera</item>
+        <item>zoombild, ändra position</item>
+        <item>återställ bilden</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>   </item>
+        <item>välj form</item>
+        <item>form 1</item>
+        <item>form 2</item>
+        <item>form 3</item>
+        <item>form 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>   </item>
+        <item>zoom toppskikt</item>
+        <item>zoom bottenskiktet</item>
+        <item>Återställ toppskiktet</item>
+        <item>återställ bottenskiktet</item>
+    </string-array>
+    <string-array name="layers">
+        <item>   </item>
+        <item>toppskikt (galleri)</item>
+        <item>toppskikt (former)</item>
+        <item>bottenlager (galleri)</item>
+        <item>bottenskiktet (former)</item>
+        <item>Återställ toppskiktet</item>
+        <item>återställ bottenskiktet</item>
+    </string-array>
+</resources>

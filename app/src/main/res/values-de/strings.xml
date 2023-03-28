@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mohamed salah das beste von england professional</string>
+
+    <string name="too_big_level">nicht vorhandenes Niveau !! Wählen Sie eine Stufe zwischen 1 und 25 oder Sie
+        können das Bild aus dem Menü zurücksetzen</string>
+
+    <string name="level">Niveau</string>
+
+    <string name="stop_zoom">Klicken Sie auf das Menü, um zum Wischen zurückzukehren und den Zoom zu deaktivieren</string>
+
+    <string name="this_image">dieses Bild</string>
+
+    <string name="saves_to">speichern in</string>
+
+    <string name="existing_images_3">Dieses Bild hat bereits existiert</string>
+
+    <string name="slide_show_4">Die Diashow der Bilder beginnt</string>
+
+    <string name="store_permission_error_3">Sie können Dateien nicht ohne Erlaubnis freigeben oder speichern</string>
+
+    <string name="camera_permission_error_3">Sie können die Kamera nicht ohne Erlaubnis verwenden</string>
+
+    <string name="try_again">Das ist aus Ihrem Gedächtnis, es dauert einen Moment, um es zu beheben, versuchen Sie es jetzt erneut</string>
+
+    <string name="set_wallpaper_success_3">Hintergrundbild erfolgreich eingestellt</string>
+
+    <string name="set_wallpaper_error_3">Einstellung des Hintergrundbildes fehlgeschlagen !!</string>
+
+    <string name="set_wallpaper_andro_3">Einstellung Wallpaper fehlgeschlagen Notwendigkeit Android 7 oder höher !!</string>
+
+    <string name="check_internet">Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut</string>
+
+    <string name="wait_3sec">Warten Sie ca. 3 Sekunden, während Sie Ihr Foto machen</string>
+
+    <string name="share_title">Bild teilen</string>
+
+    <string name="help_title">Portion</string>
+
+    <string name="clearing_title">Anwendungsdaten für die Reinigung</string>
+
+    <string name="clearing">Sind Sie sicher, dass Sie Anwendungsdaten bereinigen möchten
+        (die Anwendung wird nicht gelöscht, wenn Sie Bilder speichern)? es wird die Anwendung schließen?</string>
+
+    <string name="never">nie wieder zeigen</string>
+
+    <string name="guide_title">Anwendungshandbuch</string>
+
+    <string name="filters_guide">Bildfilter: Sie können diese Filter auf Bilder anwenden. Mit level können Sie die gewünschte
+        Filterebene festlegen. Sie können zwischen 1 und 25 einstellen, und Sie können das Bild über das Menü zurücksetzen.</string>
+
+    <string name="mixing_gallery">Erstellen eines Bildes mit der Galerie: Sie können Ihr eigenes Bild mithilfe der Ebenenliste erstellen.
+        Sie haben zwei Ebenen - oben und unten können Sie sie aus der Galerie oder aus Formen erhalten. Beide können Sie unbegrenzt
+        vergrößern und verkleinern und die Position nach Belieben ändern Klicken Sie auf die Kamera-Schaltfläche (unter dem Bildschirm),
+        um Ihr Bild zu erstellen.</string>
+
+    <string name="mixing_camera">Erstellen eines Bildes mit der Kamera: Sie können mit der Kamera und den Formen ein eigenes Bild erstellen.
+        Außerdem können Sie unbegrenzt zoomen und die Position beliebig verändern. Drücken Sie dann die Kamerataste
+        (unter dem Bildschirm) und warten Sie etwa 3 Sekunden, um das Bild zu erstellen .</string>
+
+    <string name="shapes_guide">Formen: Hierbei handelt es sich um verschiedene Formen Ihres Player-Bildes,
+        die Ihnen helfen, eine eigene Bild- und Formenliste zu erstellen, die sich auf das Bild bezieht, das Sie aus der
+        Bilderliste ausgewählt haben. Jedes Bild hat 4 Formen, damit Sie die Form ändern können, um ein anderes Bild auszuwählen
+        - Menü - neu dann wirst du andere Formen bekommen.</string>
+
+    <string name="help">Wir versuchen, diese Anwendung zu einer vollständigen Bilderanwendung zu machen und hier ihre Funktionen und deren Verwendung.
+\n 1. Die meisten Funktionen hängen von der Berührung ab (zwischen Bildern wechseln / vergrößern / verkleinern / usw.).
+\n 2. Wir versuchen, die Bilderkennung anstelle der Buchstabenerkennungsbedeutung zu verwenden (die meisten Schaltflächen erkennen Sie nur an der Form.)
+\n 3. Die Anwendung unterstützt 24 verschiedene Sprachen
+\n 4. Sie haben viele Funktionen aus dem Menü - Freigabe, Hilfe, Bilddiaschau, Wechseln der Orientierung, Öffnen einer neuen privaten Option (Bilder aus Galerie oder mit Kamera), Vergrößern / Verkleinern und Ändern der Bildposition ohne Grenzen (bis Zoom anhalten und Bilder zurückkehren (Klicken Sie einfach auf das Menü), Bild zurücksetzen (Originalgröße, Position und kein Filter zurücksetzen), Anwendungsreinigung (Reinigungsanwendung ohne Löschen der Bilder).
+\n 5. Bilderfilter: Sie können diese Filter auf Bilder anwenden. Mit level können Sie die gewünschte Filterebene festlegen. Die Ebenen können zwischen 1 und 25 liegen, und Sie können das Bild aus dem Menü zurücksetzen.
+\n 6. Bildhintergrund einstellen: Mit diesen Optionen können Sie den ursprünglichen Hintergrundbildhintergrund festlegen oder nach dem Verwenden von Filtern festlegen (Bildschirmsperre android 7+ einstellen).
+\n 7. Bilder speichern: Sie können das Originalbild speichern, nach dem Anwenden von Filtern speichern, nach dem Ändern der Größe und Position (durch Zoomen) speichern und / oder Filter anwenden
+\n 8. In der privaten neuen Option können Sie Formen verwenden: Dies sind verschiedene Formen Ihres Playerbilds, mit denen Sie eine eigene Bild- und Formliste erstellen können, die sich auf das Bild bezieht, das Sie aus der Bilderliste ausgewählt haben, und jedes Bild hat 4 Formen Formen ändern zurück - anderes Bild auswählen - Menü - neu, dann erhalten Sie andere Formen.
+\n 9. In einer privaten neuen Option Erstellen Sie Ihr Bild mit einer Kamera: Sie können Ihr eigenes Bild mit Hilfe von Kamera und Formen erstellen. Außerdem können Sie unbegrenzt zoomen und die Position beliebig ändern. Drücken Sie dann die Kamerataste (unter dem Bildschirm).
+  Warten Sie dann etwa 3 Sekunden, um Ihr Bild zu erstellen.
+\n 10. private Option für das Erstellen eines Bilds mit einer Galerie: Sie können Ihr eigenes Bild mit Hilfe der Ebenenliste erstellen. Sie haben zwei Ebenen oben und unten. Sie können sie aus einer Galerie oder aus Formen erhalten. Sie können sowohl unbegrenztes Zoomen als auch das Ändern der Position verwenden Sie möchten dann auf die Kamera-Schaltfläche (unter dem Bildschirm) klicken, um Ihr Bild zu erstellen.
+\n 11. In einer neuen privaten Option können Sie das Vergrößern und Verkleinern anwenden und die Position von Formen und Galeriebildern ändern, um ein perfektes Bild zu erhalten.
+\n 12. Nachdem Sie Ihr Foto erstellt haben, wird es automatisch gespeichert. Sie können jedoch Filter anwenden und nach dem Anwenden von Filtern erneut speichern.
+    \n genieße und unterstütze uns.</string>
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>Startbildschirm-Hintergrundbild festlegen - Originalbild</item>
+        <item>Startbildschirm-Hintergrundbild einstellen - aktueller Filter</item>
+        <item>Sperrbildschirm einstellen - Originalbild (Android 7+)</item>
+        <item>Sperrbildschirm einstellen - aktueller Filter (Android 7+)</item>
+        <item>Beide einstellen - Originalbild (Android 7+)</item>
+        <item>Beide einstellen - Stromfilter (Android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>Originalbild speichern</item>
+        <item>Bild im aktuellen Filter speichern</item>
+        <item>Bild speichern, wie Sie jetzt sehen</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>Bildfilter auswählen (Stufen zwischen 1 und 25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>Zoomkamera</item>
+        <item>Bild vergrößern, Position ändern</item>
+        <item>Bild zurücksetzen</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>Form wählen</item>
+        <item>Form 1</item>
+        <item>Form 2</item>
+        <item>Form 3</item>
+        <item>Form 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>Zoom-Ebene</item>
+        <item>untere Ebene zoomen</item>
+        <item>oberste Ebene zurücksetzen</item>
+        <item>untere Ebene zurücksetzen</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>oberste Ebene (Galerie)</item>
+        <item>oberste Schicht (Formen)</item>
+        <item>unterste Ebene (Galerie)</item>
+        <item>unterste Schicht (Formen)</item>
+        <item>oberste Ebene zurücksetzen</item>
+        <item>untere Ebene zurücksetzen</item>
+    </string-array>
+
+</resources>

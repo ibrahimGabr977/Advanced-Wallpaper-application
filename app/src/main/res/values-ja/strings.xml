@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">モハメドサラはイギリスのプロの最高の</string>
+
+    <string name="too_big_level">既存のレベルではありません！ 1–25のレベルを入力するか、メニューからイメージをリセットできます</string>
+
+    <string name="level">レベル</string>
+
+    <string name="stop_zoom">スワイプを戻してズームを無効にするには、メニューをクリックします。</string>
+
+    <string name="this_image">この画像</string>
+
+    <string name="saves_to">に保存</string>
+
+    <string name="existing_images_3">このイメージは既に存在しています</string>
+
+    <string name="slide_show_4">画像スライドショー開始</string>
+
+    <string name="store_permission_error_3">許可なくファイルを共有または保存することはできません</string>
+
+    <string name="camera_permission_error_3">許可なくカメラを使うことはできません</string>
+
+    <string name="try_again">それはあなたの記憶から外れています</string>
+
+    <string name="set_wallpaper_success_3">壁紙を正常に設定</string>
+
+    <string name="set_wallpaper_error_3">壁紙の設定に失敗しました！</string>
+
+    <string name="set_wallpaper_andro_3">壁紙を設定する必要がありますアンドロイド7以上！</string>
+
+    <string name="check_internet">ネットワーク接続を確認してもう一度お試しください</string>
+
+    <string name="wait_3sec">あなたの写真を作っている間約3秒待つ</string>
+
+    <string name="share_title">画像を共有する</string>
+
+    <string name="help_title">助ける</string>
+
+    <string name="clearing_title">アプリケーションデータのクリーニング</string>
+
+    <string name="clearing">アプリケーションのデータを消去してもよろしいですか？それはアプリケーションを終了しますか？</string>
+
+    <string name="never">再び表示されない</string>
+
+    <string name="guide_title">アプリケーションガイド</string>
+
+    <string name="filters_guide">画像フィルタ：これらのフィルタを画像に適用することができます。レベルを使用して、必要なフィルタレベルを指定する必要があります.1〜25のレベルで、メニューから画像をリセットできます。</string>
+
+    <string name="mixing_gallery">ギャラリーであなたのイメージを作成する：2つのレイヤーを持つレイヤーリストを使用して独自のイメージを作成することができます - 上から下にギャラリーや図形からそれらを得ることができますまたは両方を自由に適用して、カメラボタン（下の画面）をクリックして画像を作成します。</string>
+
+    <string name="mixing_camera">カメラであなたのイメージを作成する：あなたは自分のイメージをカメラと形状で作ることができます。また、あなたは無制限のズームインを適用し、望むように位置を図形に変えて、カメラのボタンを押してください。 。</string>
+
+    <string name="shapes_guide">シェイプ：あなたの選手のイメージのさまざまな形はあなた自身のイメージを作成するのに役立ちます。イメージリストから選択したイメージに関連するシェイプリストとシェイプはシェイプを変更するために4つのシェイプを持ちます。あなたは別の形を得るでしょう。</string>
+
+    <string name="help">私たちは、このアプリケーションを完成された画像アプリケーションにしようとしています。ここではその機能と使い方を説明します。
+\n 1.タッチのような機能のほとんどは（イメージの切り替え/ズームイン/アウトなど）
+\n 2.文字認識の意味の代わりに画像認識を使用しようとしています（ほとんどのボタンはその形状のみでその特徴を知ることができます）
+\n 3.アプリケーションは24種類の言語をサポートしています
+\n 4.共有、ヘルプ、画像スライドショー、スイッチの向き、新しいプライベートオプション（ギャラリーからのミキシングやカメラの使用）、ズームイン、画像の位置を無制限に変更できます。 （画像を元のサイズに戻し、位置とフィルターなし）、アプリケーションのクリーニング（画像の保存を削除せずにアプリケーションをクリーニング）などの機能を備えています。
+\n 5.画像フィルタ：これらのフィルタを画像に適用することができます。レベルを使用して、必要なフィルタレベルを指定する必要があります.1〜25のレベルで、メニューから画像をリセットできます。
+\n 6.画像の壁紙を設定する：あなたはオリジナルの壁紙を設定することができますまたはフィルタを使用した後に設定することができます（ロック画面が必要アンドロイド7 +
+\n 7.画像の保存：元の画像を保存したり、フィルタを適用した後に保存したり、サイズや位置を変更した後に保存したり（ズーム）、フィルタを適用することができます
+\n 8.個人的な新しいオプションでシェイプを使うことができます：これはプレーヤーのイメージの異なる形です。イメージリストから選択したイメージに関連する独自のイメージとシェイプリストを作成するのに役立ちます。シェイプを元に戻す - 他のイメージを選択する - メニュー - 新規を選択すると、別のシェイプが表示されます。
+\n 9.カメラであなたのイメージを作成するプライベートな新しいオプションで：カメラと形状を使ってあなた自身のイメージを作ったり、無制限のズームアウトを適用したり、
+  イメージを作成するのに約3秒待ちます。
+\n 10。ギャラリーであなたのイメージを作成する私的な新しいオプションで：あなたはあなたがギャラリーや図形からそれらを得ることができる2つの層の上下の層を持っているレイヤーリストを使用して独自のイメージを作成することができますあなたは無制限のズームインを適用し、カメラボタン（下の画面）をクリックして画像を作成します。
+\n 11。非公開の新しいオプションで、ズームアウトを適用し、位置を図形やギャラリーの画像に変更して完璧な画像を作成できます。
+\n 12。写真を作成した後は自動的に保存されますが、フィルターを適用した後で再度フィルターを適用して保存することができます。
+    \n 私たちを楽しんでください。</string>
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>ホーム画面の壁紙を設定する - 元の画像</item>
+        <item>ホーム画面の壁紙を設定 - 現在のフィルタ</item>
+        <item>ロック画面の壁紙を設定する - 元の画像（アンドロイド7+）</item>
+        <item>ロック画面の壁紙を設定 - 現在のフィルタ（アンドロイド7+）</item>
+        <item>両方を設定 - 元の画像（アンドロイド7+）</item>
+        <item>両方を設定 - 現在のフィルタ（アンドロイド7+）</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>元の画像を保存する</item>
+        <item>現在のフィルタに画像を保存</item>
+        <item>「あなたが今見ているように画像を保存する」</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>「画像フィルタ（レベル1~25）を選択」</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>「ズームカメラ」</item>
+        <item>「ズーム画像、位置変更」</item>
+        <item>「リセット画像」</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>形状の選択</item>
+        <item>「形状1」</item>
+        <item>「形状2」</item>
+        <item>「形状3」</item>
+        <item>「形状4」</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>ズームトップレイヤー</item>
+        <item>「ズームボトムレイヤー」</item>
+        <item>リセットトップレイヤー</item>
+        <item>リセットボトムレイヤー</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>トップレイヤー（ギャラリー）</item>
+        <item>「最上層（形状）」</item>
+        <item>「最下層（ギャラリー）」</item>
+        <item>「下層（形状）」</item>
+        <item>リセットトップレイヤー</item>
+        <item>リセットボトムレイヤー</item>
+    </string-array>
+
+</resources>

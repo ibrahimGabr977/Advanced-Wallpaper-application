@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mohamed Salah el mejor de Inglaterra profesional</string>
+
+    <string name="too_big_level">Nivel no existente !! ingrese el nivel entre 1–25 o puede restablecer la imagen desde el menú</string>
+
+    <string name="level">nivel</string>
+
+    <string name="stop_zoom">Haga clic en el menú para volver a deslizar y desactivar el zoom</string>
+
+    <string name="this_image">esta imagen</string>
+
+    <string name="saves_to">salvar a</string>
+
+    <string name="existing_images_3">esta imagen ya ha existido</string>
+
+    <string name="slide_show_4">la presentación de imágenes comienza</string>
+
+    <string name="store_permission_error_3">No puedes compartir o guardar archivos sin permiso.</string>
+
+    <string name="camera_permission_error_3">No puedes usar la cámara sin permiso.</string>
+
+    <string name="try_again">Eso está fuera de su memoria, toma un momento para arreglarlo, inténtelo de nuevo</string>
+
+    <string name="set_wallpaper_success_3">conjunto de fondo de pantalla con éxito</string>
+
+    <string name="set_wallpaper_error_3">El papel tapiz de configuración falló</string>
+
+    <string name="set_wallpaper_andro_3">la configuración de fondo de pantalla no necesita Android 7 o superior!</string>
+
+    <string name="check_internet">por favor revise su conexión de red y vuelva a intentarlo</string>
+
+    <string name="wait_3sec">espera unos 3 segundos mientras haces tu foto</string>
+
+    <string name="share_title">Compartir imagen</string>
+
+    <string name="help_title">ración</string>
+
+    <string name="clearing_title">limpieza de datos de la aplicación</string>
+
+    <string name="clearing">¿está seguro de que desea limpiar los datos de la aplicación (no elimina su aplicación guardando imágenes)?
+        se cerrará la aplicación?</string>
+
+    <string name="never">Nunca lo muestres otra vez</string>
+
+    <string name="guide_title">Guia de APLICACION</string>
+
+    <string name="filters_guide">filtros de imágenes: puede aplicar estos filtros a las imágenes, debe usar el nivel para especificar
+        el nivel de filtro que desea, niveles entre 1 y 25 y puede restablecer la imagen desde el menú.</string>
+
+    <string name="mixing_gallery">creando su imagen con la galería: puede hacer su propia imagen utilizando la lista de capas;
+        tiene dos capas: la parte superior e inferior puede obtenerlas desde la galería o las formas, o ambas puede aplicar un
+        aumento de zoom ilimitado y cambiar la posición a ellas como desee. Haga clic en el botón de la cámara (debajo de la pantalla)
+        para crear su imagen.</string>
+
+    <string name="mixing_camera">creando su imagen con la cámara: puede hacer su propia imagen usando la cámara y las formas,
+        también puede aplicar zoom in-out ilimitado y cambiar la posición a las formas que desee, luego presionar el botón
+        de la cámara (debajo de la pantalla) y esperar unos 3 segundos para crear su imagen .</string>
+
+    <string name="shapes_guide">formas: estas son formas diferentes de la imagen de su reproductor que le ayudan a crear
+        su propia imagen y la lista de formas relacionadas con la imagen que seleccionó de la lista de imágenes y cada imagen
+        tiene 4 formas para cambiar las formas volver a seleccionar otra imagen - menú - nuevo entonces obtendrás otras formas.</string>
+
+    <string name="help">Tratamos de hacer de esta aplicación una aplicación de imágenes completa y aquí sus características y cómo usarlas.
+\n 1. la mayoría de las funciones dependen del toque (cambiar entre imágenes / acercar / alejar / ... etc.)
+\n 2. intentamos utilizar el reconocimiento de imágenes en lugar del significado de reconocimiento de letras (la mayoría de los botones puede conocer sus características solo por su forma)
+\n 3. La aplicación soporta 24 idiomas diferentes.
+\n 4. tiene muchas funciones en el menú: compartir, ayuda, presentación de diapositivas, cambiar la orientación, abrir una nueva opción privada (imágenes que se mezclan desde la galería o usar la cámara), acercar y alejar la imagen y cambiar la posición de la imagen sin límites (para haga una pausa en el zoom y devuelva las imágenes deslizando el dedo simplemente haciendo clic en el menú), reinicie la imagen (imagen de atrás al tamaño original, posición y sin filtro), limpieza de la aplicación (limpieza de la aplicación sin eliminar las imágenes guardadas).
+\n 5. filtros de imágenes: puede aplicar estos filtros a las imágenes, debe usar el nivel para especificar el nivel de filtro que desea, niveles entre 1 y 25 y puede restablecer la imagen desde el menú.
+\n 6. configurando el fondo de pantalla de la imagen: le da más opciones que puede configurar el fondo de pantalla de la imagen original o configurar después de usar los filtros (la pantalla de bloqueo del conjunto necesita Android 7+)
+\n 7. guardar imágenes: puede guardar la imagen original, guardar después de aplicar filtros, guardar después de cambiar el tamaño y la posición (haciendo zoom) y / o aplicar filtros
+\n 8. en la nueva opción privada, puede usar Formas: estas son formas diferentes de la imagen de su reproductor que lo ayudan a crear su propia imagen y lista de formas relacionadas con la imagen que seleccionó de la lista de imágenes y cada imagen tiene 4 formas para volver a cambiar las formas - seleccione otra imagen - menú - nuevo, luego obtendrá otras formas.
+\n 9. en la nueva opción privada creando su imagen con la cámara: puede crear su propia imagen usando la cámara y las formas, también puede aplicar zoom in-out ilimitado y cambiar la posición a las formas que desee, luego presione el botón de la cámara (debajo de la pantalla)
+  luego espera unos 3 segundos para crear tu imagen.
+\n 10. en la nueva opción privada creando su imagen con la galería: puede hacer su propia imagen usando la lista de capas; tiene dos capas arriba y abajo; puede obtenerlas desde la galería o las formas, o ambas puede aplicar un zoom ilimitado, cambiar de posición y cambiar de posición a ellas como desea hacer clic en el botón de la cámara (debajo de la pantalla) para crear su imagen.
+\n 11. en la nueva opción privada, puede aplicar zoom in y out y cambiar la posición de las formas y las imágenes de la galería para hacer una imagen perfecta.
+\n 12. después de crear su foto, se guardará automáticamente, pero puede aplicar filtros y guardar nuevamente después de aplicar filtros.
+    \n disfrutar y apoyarnos.</string>
+
+    <string-array name="set_array_3">
+        <item>	</item>
+        <item>Establecer fondo de pantalla de inicio - imagen original</item>
+        <item>Establecer fondo de pantalla de inicio - filtro actual</item>
+        <item>establecer fondo de pantalla de bloqueo de pantalla - imagen original (android 7+)</item>
+        <item>establecer fondo de pantalla de bloqueo de pantalla - filtro actual (android 7+)</item>
+        <item>establecer ambos - imagen original (android 7+)</item>
+        <item>configurar ambos - filtro actual (android 7+)</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item>	</item>
+        <item>guardar imagen original</item>
+        <item>guardar imagen en el filtro actual</item>
+        <item>Guarda la imagen como la ves ahora</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item>	</item>
+        <item>seleccionar filtro de imagen (niveles entre 1 y 25)</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item>	</item>
+        <item>cámara de zoom</item>
+        <item>ampliar imagen, cambiar de posición</item>
+        <item>reiniciar imagen</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item>	</item>
+        <item>seleccionar forma</item>
+        <item>forma 1</item>
+        <item>forma 2</item>
+        <item>forma 3</item>
+        <item>forma 4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item>	</item>
+        <item>ampliar la capa superior</item>
+        <item>zoom de la capa inferior</item>
+        <item>restablecer la capa superior</item>
+        <item>Restablecer la capa inferior</item>
+    </string-array>
+    <string-array name="layers">
+        <item>	</item>
+        <item>capa superior (galería)</item>
+        <item>capa superior (formas)</item>
+        <item>capa inferior (galería)</item>
+        <item>capa inferior (formas)</item>
+        <item>restablecer la capa superior</item>
+        <item>restablecer la capa inferior</item>
+    </string-array>
+
+</resources>

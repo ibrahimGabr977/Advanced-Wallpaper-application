@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">穆罕默德·薩拉是英格蘭最好的職業選手</string>
+
+    <string name="too_big_level">不存在水平!!輸入1–25之間的級別，或者您可以從菜單重置圖像</string>
+
+    <string name="level">水平</string>
+
+    <string name="stop_zoom">單擊菜單返回滑動並禁用縮放</string>
+
+    <string name="this_image">這個圖片</string>
+
+    <string name="saves_to">存到</string>
+
+    <string name="existing_images_3">這個圖像已經存在</string>
+
+    <string name="slide_show_4">圖像幻燈片放映開始</string>
+
+    <string name="store_permission_error_3">未經許可，您無法共享或保存文件</string>
+
+    <string name="camera_permission_error_3">未經許可不得使用相機</string>
+
+    <string name="try_again">這是你的記憶，現在需要花點時間再次嘗試修復</string>
+
+    <string name="set_wallpaper_success_3">壁紙設置成功</string>
+
+    <string name="set_wallpaper_error_3">設置壁紙失敗!!</string>
+
+    <string name="set_wallpaper_andro_3">設置壁紙失敗需要安卓7或更高！</string>
+
+    <string name="check_internet">請檢查您的網絡連接，然後重試</string>
+
+    <string name="wait_3sec">製作照片時要等3秒鐘</string>
+
+    <string name="share_title">分享圖像</string>
+
+    <string name="help_title">幫助</string>
+
+    <string name="clearing_title">清理應用數據</string>
+
+    <string name="clearing">你確定要清理應用程序數據（不刪除你的應用程序保存圖像）??它將關閉申請？</string>
+
+    <string name="never">永遠不會再顯示</string>
+
+    <string name="guide_title">應用指南</string>
+
+    <string name="filters_guide">圖像過濾器：您可以將這些過濾器應用於圖像，您應該使用級別指定所需的過濾器級別 - 級別在1到25之間，您可以從菜單重置圖像。</string>
+
+    <string name="mixing_gallery">使用圖庫創建圖像：您可以使用圖層列表創建自己的圖像，您可以使用兩個圖層 -
+        頂部和底部可以從圖庫或形狀中獲取它們或者兩者都可以應用無限放大 - 並根據需要更改位置單擊相機按鈕（在屏幕下方）以創建圖像。</string>
+
+    <string name="mixing_camera">使用相機創建圖像：您可以使用相機和形狀製作自己的圖像，也可以根據需要應用無限放大和更改位置，
+        然後按相機按鈕（屏幕下方），然後等待約3秒鐘來創建圖像。</string>
+
+    <string name="shapes_guide">形狀：這些是您的播放器圖像的不同形狀，幫助您創建自己的圖像和形狀列表相關的圖像，您從圖像列表中選擇，每個圖像有4個形狀，
+        以便更改形狀返回 - 選擇其他圖像 - 菜單 - 新然後你會得到另一種形狀。</string>
+
+    <string name="help">我們試圖使這個應用程序成為一個完整的圖像應用程序，在這裡它的功能和如何使用它們。
+\n 1.大多數功能取決於觸摸（在圖像之間切換/放大/等等）
+\n 2.我們嘗試使用圖像識別而不是字母識別意義（大多數按鈕只能通過其形狀了解其特徵）
+\n 3.該應用程序支持25種不同的語言
+\n 4.你在菜單中有很多功能 - 分享，幫助，圖像幻燈片放映，切換方向，打開新的私人選項（圖庫混合圖庫或使用相機），放大和更改圖像位置沒有限制（到暫停縮放和返回圖像滑動只需單擊菜單），重置圖像（背面圖像為原始大小，位置和無過濾器），應用程序清理（清除應用程序而不刪除保存圖像）。
+\n 5.圖像過濾器：您可以將這些過濾器應用於圖像，您應該使用級別指定所需的過濾器級別 - 級別在1到25之間，您可以從菜單重置圖像。
+\n 6.設置圖像壁紙：為您提供更多選項，您可以設置原始圖像壁紙或使用過濾器後設置（設置鎖定屏幕需要android 7+）
+\n 7.保存圖像：您可以保存原始圖像，應用過濾器後保存，更改大小和位置後保存（通過縮放）和/或應用過濾器
+\n 8.在私人新選項中，您可以使用形狀：這些是您的播放器圖像的不同形狀，可幫助您創建自己的圖像和與從圖像列表中選擇的圖像相關的形狀列表，並且每​​個圖像都有4個形狀，以便改變形狀 - 選擇其他圖像 - 菜單 - 新的然後你會得到另一種形狀。
+\n 9.在私人新選項中使用相機創建圖像：您可以使用相機和形狀製作自己的圖像，也可以根據需要應用無限放大和更改位置，然後按相機按鈕（屏幕下方）
+  然後等待大約3秒鐘來創建你的圖像。
+\n 10。在私人新選項中使用圖庫創建您的圖像：您可以使用圖層列表創建自己的圖像，您可以從頂部和底部有兩個圖層，您可以從圖庫或形狀中獲取它們或兩者都可以應用無限放大 - 並將位置更改為然後，您需要單擊相機按鈕（屏幕下方）以創建圖像。
+\n 11。在私人新選項中，您可以應用放大和更改位置到形狀和圖庫圖像，以製作完美的圖像。
+\n 12。創建照片後，它會自動保存，但您可以應用過濾器並在​​應用過濾器後再次保存。
+    \n 享受並支持我們。</string>
+
+    <string-array name="set_array_3">
+        <item> </item>
+        <item>設置主屏幕壁紙 - 原始圖像</item>
+        <item>設置主屏幕壁紙 - 當前過濾器</item>
+        <item>設置鎖屏壁紙 - 原始圖像（android 7+）</item>
+        <item>設置鎖屏壁紙 - 當前過濾器（android 7+）</item>
+        <item>設置兩者 - 原始圖像（android 7+）</item>
+        <item>設置兩個 - 當前過濾器（android 7+）</item>
+    </string-array>
+    <string-array name="save_array_3">
+        <item> </item>
+        <item>保存原始圖像</item>
+        <item>在當前過濾器中保存圖像</item>
+        <item>保存你現在看到的圖像</item>
+    </string-array>
+    <string-array name="image_filters_3">
+        <item> </item>
+        <item>選擇圖像過濾器（水平在1–25之間）</item>
+        <item>GRAY</item>
+        <item>BLUE GRAY</item>
+        <item>EXTREME GRAY</item>
+        <item>SKETCH</item>
+        <item>BLUE SKETCH</item>
+        <item>EXTREME SKETCH</item>
+        <item>COLORED SKETCH</item>
+        <item>SOFT SKETCH</item>
+        <item>EXTREME SOFT SKETCH</item>
+        <item>SOFT COLOR SKETCH</item>
+        <item>GRAY TO SKETCH</item>
+        <item>GRAY TO COLORED SKETCH</item>
+        <item>GRAY TO SOFT SKETCH</item>
+        <item>GRAY TO SOFT COLOR SKETCH</item>
+        <item>EXTREME GRAY TO SOFT COLOR SKETCH</item>
+        <item>SKETCH TO COLOR SKETCH</item>
+        <item>EXTREME SKETCH TO COLOR SKETCH</item>
+    </string-array>
+    <string-array name="zoom_array_5">
+        <item> </item>
+        <item>變焦相機</item>
+        <item>縮放圖像，改變位置</item>
+        <item>重置圖片</item>
+    </string-array>
+    <string-array name="shapes_array_5">
+        <item> </item>
+        <item>選擇形狀</item>
+        <item>形狀1</item>
+        <item>形狀2</item>
+        <item>形狀3</item>
+        <item>形狀4</item>
+    </string-array>
+    <string-array name="zoom_array_7">
+        <item> </item>
+        <item>縮放頂層</item>
+        <item>縮放底層</item>
+        <item>重置頂層</item>
+        <item>重置底層</item>
+    </string-array>
+    <string-array name="layers">
+        <item> </item>
+        <item>頂層（畫廊）</item>
+        <item>頂層（形狀）</item>
+        <item>底層（畫廊）</item>
+        <item>底層（形狀）</item>
+        <item>重置頂層</item>
+        <item>重置底層</item>
+    </string-array>
+</resources>
